@@ -1,0 +1,1139 @@
+repo_name	decision	note	description	topics	language	stars	archived	is_fork	search_names
+074-BilalIhsan/Fasta-Organisme	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	074-bilalihsan/fasta-organisme
+074-BilalIhsan/Fasta-Organisme-2	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	074-bilalihsan/fasta-organisme-2
+0gonowski/bioinformatics-fasta-generator	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	0gonowski/bioinformatics-fasta-generator
+0x1fff/fasta-uniq-amino-acids	include	metadata indicates biological FASTA use	Fasta Unique Sequences Amino Acids Search Script		Perl	1.0	0.0	0.0	0x1fff/fasta-uniq-amino-acids
+0x4c4d59/FPS-fasta	include	metadata indicates biological FASTA use	集成了一些快速处理fasta文件的小功能~		Python	2.0	0.0	0.0	0x4c4d59/fps-fasta
+aagarcia2007/analizador-fasta	include	metadata indicates biological FASTA use	proyecto final de analizador de secuencias fasta		Python	0.0	0.0	0.0	aagarcia2007/analizador-fasta
+aagarcia2007/gc-fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	aagarcia2007/gc-fasta
+aagoodman/FASTA	exclude	metadata indicates unrelated use of FASTA term/acronym	A way to visualize path and speed on top of maps, mobile		HTML	0.0	0.0	0.0	aagoodman/fasta
+aandradebio/splitFASTA	include	metadata indicates biological FASTA use	Simple code to split a multifasta file using R 		R	0.0	0.0	0.0	aandradebio/splitfasta
+aanuorioke/SukaFasta	exclude	insufficient metadata to establish biological FASTA use			Kotlin	0.0	0.0	0.0	aanuorioke/sukafasta
+Abby927350/fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	abby927350/fasta
+abiaps/ReverseFasta	include	repository name indicates FASTA sequence handling			Java	0.0	0.0	0.0	abiaps/reversefasta
+AbiodunVlad/fasta-moni	exclude	insufficient metadata to establish biological FASTA use			JavaScript	0.0	0.0	0.0	abiodunvlad/fasta-moni
+AbruEcharri/proyecto_s01_fasta	include	metadata indicates biological FASTA use	Proyecto de procesamiento de secuencias FASTA de E. coli. Incluye limpieza de datos, EDA con Pandas y Seaborn, y control de calidad con BioPython.		Jupyter Notebook	0.0	0.0	0.0	abruecharri/proyecto_s01_fasta
+ABTsutenkyo/tinder-fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	abtsutenkyo/tinder-fasta
+abusuraihsakhri/fasta-gc-calculator	include	repository name indicates FASTA sequence handling	Fasta Gc Calculator — Enterprise Automated Analytical Suite for Clinical & Biomedical AI		Python	0.0	0.0	0.0	abusuraihsakhri/fasta-gc-calculator
+AceSCav/Fasta-Entrez-Loader	include	metadata indicates biological FASTA use	This Python script automates the search and retrieval of biological sequences from the NCBI Entrez database using the eSearch and eFetch services.	bash;python3	Python	0.0	0.0	0.0	acescav/fasta-entrez-loader
+Adam-Rem/Lab5_fasta	exclude	insufficient metadata to establish biological FASTA use	zadanie na laboratorium		C#	0.0	0.0	0.0	adam-rem/lab5_fasta
+AdamBessa/Fasta2Structure	include	repository name indicates FASTA conversion/handling			Python	4.0	0.0	0.0	adambessa/fasta2structure
+AdamOss88/fasta_primer_TOOLS	include	metadata indicates biological FASTA use				0.0	0.0	0.0	adamoss88/fasta_primer_tools
+AdemoDEV/analyse-sequences-fasta	include	metadata indicates biological FASTA use			C++	0.0	0.0	0.0	ademodev/analyse-sequences-fasta
+adeyemimichael/fasta-pos	exclude	insufficient metadata to establish biological FASTA use			TypeScript	0.0	0.0	0.0	adeyemimichael/fasta-pos
+adhillll4/GenBank-to-FASTA-GC-Analysis	include	metadata indicates biological FASTA use	Beginner bioinformatics project using Biopython 		Python	1.0	0.0	0.0	adhillll4/genbank-to-fasta-gc-analysis
+adiamb/Fastq-to-Fasta	include	metadata indicates biological FASTA use			Go	0.0	0.0	0.0	adiamb/fastq-to-fasta
+adiamb/FASTQ_to_FASTA	include	metadata indicates biological FASTA use	A python script to convert FASTQ to FASTA	converter;fasta;fastq-files	Python	4.0	0.0	0.0	adiamb/fastq_to_fasta
+Adidaware/Fasta-Processing-Tool	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	adidaware/fasta-processing-tool
+aditivannela/FASTA-FASTQ-parser	include	metadata indicates biological FASTA use	This is a beginner bioinformatics project written in R to parse and analyze FASTA and FASTQ files, to gain practice working with biological sequence data.		R	0.0	0.0	0.0	aditivannela/fasta-fastq-parser
+adrianomartinelli/processing_fasta	exclude	insufficient metadata to establish biological FASTA use			C++	0.0	0.0	0.0	adrianomartinelli/processing_fasta
+Adrik-DC/analizador_fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	adrik-dc/analizador_fasta
+Adrik-DC/gc_fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	adrik-dc/gc_fasta
+afafbioinfo/Align_MSA_Fasta	include	metadata indicates biological FASTA use	This script allows to align fasta Multi-sequence-Alignement using Clustalw and generate .aln format file that are used as input for RNAalifold.		Python	1.0	0.0	0.0	afafbioinfo/align_msa_fasta
+AfifZuhair08/MERN-Fasta-Social	exclude	metadata indicates unrelated use of FASTA term/acronym	front-end part of Social Media Clone Apps		JavaScript	1.0	0.0	0.0	afifzuhair08/mern-fasta-social
+AfifZuhair08/ShopFasta	exclude	insufficient metadata to establish biological FASTA use			JavaScript	0.0	0.0	0.0	afifzuhair08/shopfasta
+agordon/fasta_ushuffle	include	metadata indicates biological FASTA use	Wrapper for uShuffle		C	0.0	0.0	0.0	agordon/fasta_ushuffle
+Ahmodiyy/fasta	exclude	metadata indicates unrelated use of FASTA term/acronym	A delivery app with flutter and firebase.			0.0	0.0	0.0	ahmodiyy/fasta
+AI-Ecology-Lab/C_FASTA	exclude	insufficient metadata to establish biological FASTA use			C++	0.0	0.0	0.0	ai-ecology-lab/c_fasta
+aichaeljai/FASTA-Q_File_Processing	exclude	insufficient metadata to establish biological FASTA use			C++	0.0	0.0	0.0	aichaeljai/fasta-q_file_processing
+aim-ademola/fasta	exclude	insufficient metadata to establish biological FASTA use			Makefile	0.0	0.0	0.0	aim-ademola/fasta
+ajmaurais/subsetFasta	include	repository name indicates FASTA sequence handling	Subset fasta based off a list of uniprot IDs.		Python	0.0	0.0	0.0	ajmaurais/subsetfasta
+ajsri/fasta2a-poc	include	repository name indicates FASTA conversion/handling			Python	0.0	0.0	0.0	ajsri/fasta2a-poc
+akaeii/fasta_gene_isolator	include	metadata indicates biological FASTA use	A script that isolates the glycoprotein (GP) gene in 27 strains of the Ebola virus. All data are downloaded from NCBI GenBank.	bad-code;bioinformatics	Python	0.0	0.0	0.0	akaeii/fasta_gene_isolator
+Akinmills/FASTA	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	akinmills/fasta
+alanllano/analizador-fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	alanllano/analizador-fasta
+alanllano/gc-fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	alanllano/gc-fasta
+AlanTome/Contando-Cromossomos-de-um-arquivo-fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	alantome/contando-cromossomos-de-um-arquivo-fasta
+albreax/Fasta-subsequence-extractor	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	albreax/fasta-subsequence-extractor
+aldhr/get_smiles_and_fasta_from_PDB	include	repository name indicates FASTA sequence handling	This codes are for getting smiles and fasta from PDB files.		Jupyter Notebook	0.0	0.0	0.0	aldhr/get_smiles_and_fasta_from_pdb
+AlejoGavidia/-C-Users-alejo-OneDrive-Documentos-BIOINFORM-TICA-FASTA1-	include	metadata indicates biological FASTA use				0.0	0.0	0.0	alejogavidia/-c-users-alejo-onedrive-documentos-bioinform-tica-fasta1-
+Alexander-Mitrofanov/fasta-web-server	include	metadata indicates biological FASTA use	Proof-of-concept FASTA web form with GitHub Pages frontend and de.NBI compute backend		HTML	0.0	0.0	0.0	alexander-mitrofanov/fasta-web-server
+alexcoppe/from_fastq_to_fasta	include	metadata indicates biological FASTA use	:pill: A software for converting FASTQ files to FASTA ones		C	0.0	0.0	0.0	alexcoppe/from_fastq_to_fasta
+alexleach/fasta_lazy_loader	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	alexleach/fasta_lazy_loader
+AlexZ-AlexZ/Fasta	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	alexz-alexz/fasta
+AlgebraicAttack/Chosen-IV-Algebraic-Attack-on-Randomized-Ciphers-FASTA-and-HERA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	algebraicattack/chosen-iv-algebraic-attack-on-randomized-ciphers-fasta-and-hera
+algosbiz/fasta-web	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	algosbiz/fasta-web
+alibrandi/fasta-view	include	repository name indicates FASTA sequence handling			JavaScript	0.0	0.0	0.0	alibrandi/fasta-view
+alimonoo/FASTA_Analyzer	include	repository name indicates FASTA sequence handling			Python	1.0	0.0	0.0	alimonoo/fasta_analyzer
+Alina110401/Analizator-FASTA	exclude	insufficient metadata to establish biological FASTA use			C#	0.0	0.0	0.0	alina110401/analizator-fasta
+Alipn97/FASTQ-to-FASTA	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	alipn97/fastq-to-fasta
+AlixRegnier/FASTA_TSP_reordering	include	metadata indicates biological FASTA use	Reorder FASTA to make them more compressible using TSP with Mash distance		C++	0.0	0.0	0.0	alixregnier/fasta_tsp_reordering
+allenmadsen/fastq2fasta	include	metadata indicates biological FASTA use			C++	0.0	0.0	0.0	allenmadsen/fastq2fasta
+alona-korzhakova/fasta_handler	include	metadata indicates biological FASTA use	"program made as a part of the final exam of the course ""Python for Genomic Data Science"" from John Hopkins University"		Python	0.0	0.0	0.0	alona-korzhakova/fasta_handler
+alouyakis/get_inteins_fasta	include	metadata indicates biological FASTA use	Python script creates multi-seq fasta of all inteins currently on InBase2.0 (12/28/2020, 1273 entries)			0.0	0.0	0.0	alouyakis/get_inteins_fasta
+AlvaroOrtaToscano/OncoScanFASTA	include	metadata indicates biological FASTA use	OncoScanFASTA: herramienta bioinformática que analiza archivos FASTA, identifica genes oncogénicos, calcula métricas genéticas clave y traduce ADN a proteínas. Ideal para proyectos ómicos, educación y ciencia aplicada.		Python	0.0	0.0	0.0	alvaroortatoscano/oncoscanfasta
+alwin1031/FASTA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	alwin1031/fasta
+amazingawwal/Fasta_Moni	exclude	insufficient metadata to establish biological FASTA use	Front End Dev Test		JavaScript	0.0	0.0	0.0	amazingawwal/fasta_moni
+amitjoshi32/GENBANK_FASTA_PYTHON	include	metadata indicates biological FASTA use	Python codes to retrieve FASTA and Genbank source information in Biopython module		Python	1.0	0.0	0.0	amitjoshi32/genbank_fasta_python
+Amjad1148/Fasta_header_modification	include	metadata indicates biological FASTA use	Modifies the header of the fasta and keep the gene ID and sequence removing unwanted text from fasta header			2.0	0.0	0.0	amjad1148/fasta_header_modification
+amrgalalibrahim/Nanopore_to_Fasta	include	metadata indicates biological FASTA use	Nanopore barcode sequencing to final single fasta		Shell	1.0	0.0	0.0	amrgalalibrahim/nanopore_to_fasta
+Amuoeba/fasta_collapse	include	metadata indicates biological FASTA use	Finds fasta entries that have same sequence but different id and collapses them		Python	0.0	0.0	0.0	amuoeba/fasta_collapse
+anatolydryga/prefixFasta	include	metadata indicates biological FASTA use	add prefix to fasta identifier		Python	0.0	0.0	0.0	anatolydryga/prefixfasta
+andorrandeded/fasta	exclude	insufficient metadata to establish biological FASTA use			Elixir	0.0	0.0	0.0	andorrandeded/fasta
+andvides/selectFasta	include	repository name indicates FASTA sequence handling			C++	0.0	0.0	0.0	andvides/selectfasta
+aneeshreddy12/fasta	exclude	insufficient metadata to establish biological FASTA use			PureBasic	0.0	0.0	0.0	aneeshreddy12/fasta
+ANGSD/fasta_splitter_triage	include	repository name indicates FASTA sequence handling			C++	0.0	0.0	0.0	angsd/fasta_splitter_triage
+animaljam101/fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	animaljam101/fasta
+animaljam101/fasta1	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	animaljam101/fasta1
+AnkiGurao/split_fasta	include	metadata indicates biological FASTA use	CONVERT FASTA TO MULTIPLE FASTA BY ANNOTATIONS		Python	1.0	0.0	0.0	ankigurao/split_fasta
+annap2898/Fasta_Manipulator	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	annap2898/fasta_manipulator
+annogen/check_fasta_for_probe_design	include	metadata indicates biological FASTA use	simple R-script to check, and report on, the compliance of sequences supplied in a fasta with the requirements for design of probe sequences		R	0.0	0.0	0.0	annogen/check_fasta_for_probe_design
+anolapalme/SortMyFasta	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	anolapalme/sortmyfasta
+anthonyapollis/FASTA_FinTech_LendingDW	exclude	metadata indicates unrelated use of FASTA term/acronym	FASTA FinTech lending data warehouse and MLOps case study		Python	0.0	0.0	0.0	anthonyapollis/fasta_fintech_lendingdw
+antonrenzoreyes/excel_to_fasta	include	repository name indicates FASTA conversion/handling			Python	0.0	0.0	0.0	antonrenzoreyes/excel_to_fasta
+anupamsingh194/Fasta_parsing	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	anupamsingh194/fasta_parsing
+Apb58/FASTA_Dup_Remover	include	metadata indicates biological FASTA use	Python script to remove FASTA Duplicate reads based on Read Tag IDs		Python	0.0	0.0	0.0	apb58/fasta_dup_remover
+aqweszxcd/fasta2mif	include	repository name indicates FASTA conversion/handling			MATLAB	1.0	0.0	0.0	aqweszxcd/fasta2mif
+arabidopsis/nnfasta	include	metadata indicates biological FASTA use	Neural Net efficient fasta Dataset for Training		Python	0.0	0.0	0.0	arabidopsis/nnfasta
+arbdwj/FASTA	exclude	metadata indicates unrelated use of FASTA term/acronym	FASTA: Full Average Scaled Tiling Attention		Jupyter Notebook	0.0	0.0	0.0	arbdwj/fasta
+Aria-Dolatabadian/FASTA-and-GBK-parsing	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	aria-dolatabadian/fasta-and-gbk-parsing
+ariaixian/fasta-research-toolkit	include	repository name indicates FASTA sequence handling	Privacy-conscious command-line tools for reproducible FASTA preparation	fasta;privacy;python;reproducibility;research-software	Python	0.0	0.0	0.0	ariaixian/fasta-research-toolkit
+Arik-299/test-for-fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	arik-299/test-for-fasta
+arizai5-bit/analizador_fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	arizai5-bit/analizador_fasta
+arpit20328/Fasta2Kaiju	include	repository name indicates FASTA sequence handling	Converts Custom FASTA to Kaiju Index			0.0	0.0	0.0	arpit20328/fasta2kaiju
+arrogantrobot/fasta_combiner	include	metadata indicates biological FASTA use	Combine per-chromosome fasta reference files into one reference		Perl	0.0	0.0	0.0	arrogantrobot/fasta_combiner
+Artur-Pinski/rename_fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	artur-pinski/rename_fasta
+Aryaan-Bazaz/GPU-Accelerated-Encryption-and-Brute-force-of-HE-Friendly-Stream-Ciphers-RASTA-FASTA-FLIP-and-FiLIP	exclude	metadata indicates unrelated use of FASTA term/acronym			Jupyter Notebook	0.0	0.0	0.0	aryaan-bazaz/gpu-accelerated-encryption-and-brute-force-of-he-friendly-stream-ciphers-rasta-fasta-flip-and-filip
+AsadiR/FASTA	exclude	insufficient metadata to establish biological FASTA use			Java	0.0	0.0	0.0	asadir/fasta
+asalas-lcg/Tarea_FASTA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	asalas-lcg/tarea_fasta
+ashakirin/microbiology-fasta	include	metadata indicates biological FASTA use			Java	0.0	0.0	0.0	ashakirin/microbiology-fasta
+ashleydimarco/python-fasta	exclude	insufficient metadata to establish biological FASTA use	GCB Academy Course 2019: Section on Git Version Control		Python	0.0	0.0	0.0	ashleydimarco/python-fasta
+Ashu-design/FASTA-to-CSV	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	ashu-design/fasta-to-csv
+asssa7777/fasta-generator-pbio	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	asssa7777/fasta-generator-pbio
+Astijq/fastFASTA	exclude	insufficient metadata to establish biological FASTA use	Laboratory work		Python	0.0	0.0	0.0	astijq/fastfasta
+astra3code/KUZA-FASTA-	exclude	metadata indicates unrelated use of FASTA term/acronym	The Best SMM service app to boost your social media Followers likes comments shares both tiktok Instagram and Facebook etc with a cheap prices			0.0	0.0	0.0	astra3code/kuza-fasta-
+atlas1612/fasta-analyzer	include	repository name indicates FASTA sequence handling			C#	0.0	0.0	0.0	atlas1612/fasta-analyzer
+auguste-d/split-fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	auguste-d/split-fasta
+Augustus-M-Snyder/Fasta_stuff	exclude	insufficient metadata to establish biological FASTA use			Shell	0.0	0.0	0.0	augustus-m-snyder/fasta_stuff
+Auktet08/fasta_2_csv	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	auktet08/fasta_2_csv
+AVazdekis/GenBank-y-Fasta	include	metadata indicates biological FASTA use	En este codigo se analiza el gen CFTR y la proteina 4INS con el fin de explorar la informacion que nos ofrecen los formatos GenBank y Fasta		Gnuplot	0.0	0.0	0.0	avazdekis/genbank-y-fasta
+AvhikBiswas/fasta-food	exclude	metadata indicates unrelated use of FASTA term/acronym			JavaScript	0.0	0.0	0.0	avhikbiswas/fasta-food
+avikdatta/jupyter-fasta	exclude	metadata indicates unrelated use of FASTA term/acronym	A repo for running jupyter notebook with fasta extension in binder		Shell	0.0	0.0	0.0	avikdatta/jupyter-fasta
+ayeleb77/FASTA.-S.-sonnei-one	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	ayeleb77/fasta.-s.-sonnei-one
+ayeleb77/FASTA.-S.-sonnei-two	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	ayeleb77/fasta.-s.-sonnei-two
+ayushman1401/GPU-Accelerated-Encryption-and-Brute-force-of-HE-Friendly-Stream-Ciphers-RASTA-FASTA-FLIP-and-FiLIP	exclude	metadata indicates unrelated use of FASTA term/acronym			Jupyter Notebook	0.0	0.0	0.0	ayushman1401/gpu-accelerated-encryption-and-brute-force-of-he-friendly-stream-ciphers-rasta-fasta-flip-and-filip
+azulrobles/analizador-fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	azulrobles/analizador-fasta
+babylindo/FASTQ-to-FASTA	include	metadata indicates biological FASTA use	FASTQ to FASTA			0.0	0.0	0.0	babylindo/fastq-to-fasta
+bagnacan/flank-fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	bagnacan/flank-fasta
+Bambusaoldhamii/Fasta-AI_CSI-R1	exclude	metadata indicates unrelated use of FASTA term/acronym	 Fasta AI_CSI R1 – GPT-based Country Semantic Inference Module		HTML	0.0	0.0	0.0	bambusaoldhamii/fasta-ai_csi-r1
+Bambusaoldhamii/fasta-rbca-resolver	exclude	insufficient metadata to establish biological FASTA use	Fasta Automated Rule-Based Country Assignment (RBCA) for influenza		Jupyter Notebook	0.0	0.0	0.0	bambusaoldhamii/fasta-rbca-resolver
+BanForFun/vcf-to-fasta	include	metadata indicates biological FASTA use			JavaScript	0.0	0.0	0.0	banforfun/vcf-to-fasta
+barperarroyo-boop/FASTA-archives---PAC4	include	metadata indicates biological FASTA use	Archivos FASTA generados en R			0.0	0.0	0.0	barperarroyo-boop/fasta-archives---pac4
+basmith89/Brian-s_fastq_2_fasta	include	metadata indicates biological FASTA use	Perl script using regex to convert fastq file into fasta		Perl	0.0	0.0	0.0	basmith89/brian-s_fastq_2_fasta
+bathy/yg_fasta_cutter	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	bathy/yg_fasta_cutter
+Baxito/kuku-fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	baxito/kuku-fasta
+BCCDC-PHL/fasta-blasta	include	metadata indicates biological FASTA use			Python	1.0	0.0	0.0	bccdc-phl/fasta-blasta
+beknurtas-bio/fasta-fastq-parser	include	metadata indicates biological FASTA use	Python toolkit for parsing, filtering, and analyzing FASTA/FASTQ biological sequence files		Python	0.0	0.0	0.0	beknurtas-bio/fasta-fastq-parser
+BENNETSASU/FASTA-MAPS-FOR-CRR-AND-RDT-GHANA	exclude	metadata indicates unrelated use of FASTA term/acronym			TypeScript	0.0	0.0	0.0	bennetsasu/fasta-maps-for-crr-and-rdt-ghana
+BENNETSASU/GMet-FASTA-API-INTERGRATION	exclude	insufficient metadata to establish biological FASTA use			TypeScript	0.0	0.0	0.0	bennetsasu/gmet-fasta-api-intergration
+benoitnabholz/VCF2Fasta	include	metadata indicates biological FASTA use			Python	1.0	0.0	0.0	benoitnabholz/vcf2fasta
+bergeycm/vcf-tab-to-fasta	include	metadata indicates biological FASTA use			Perl	1.0	0.0	0.0	bergeycm/vcf-tab-to-fasta
+BernhardRetzl/fasta_analysis	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	bernhardretzl/fasta_analysis
+betafcc/regex-fasta	exclude	insufficient metadata to establish biological FASTA use			TypeScript	0.0	0.0	0.0	betafcc/regex-fasta
+BetoAvila/Fasta	exclude	insufficient metadata to establish biological FASTA use	Fasta class library repo by Beto Avila		Python	0.0	0.0	0.0	betoavila/fasta
+BetoPD/bison-fasta	exclude	insufficient metadata to establish biological FASTA use			C++	0.0	0.0	0.0	betopd/bison-fasta
+BevalZ/bioinfo-fasta-search	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	bevalz/bioinfo-fasta-search
+BFL-lab/grab-fasta	exclude	insufficient metadata to establish biological FASTA use			Perl	0.0	0.0	0.0	bfl-lab/grab-fasta
+bge-barcoding/fasta-cleaner	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	bge-barcoding/fasta-cleaner
+bhs4861-glitch/fasta_analysis	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	bhs4861-glitch/fasta_analysis
+bicho44/fasta	exclude	metadata indicates unrelated use of FASTA term/acronym	Diseño Colegio FASTA Bariloche		CSS	0.0	0.0	0.0	bicho44/fasta
+bicho44/fasta-boots	exclude	metadata indicates unrelated use of FASTA term/acronym	Diseño para Colegio FASTA basado en Bootstrap 3			0.0	0.0	0.0	bicho44/fasta-boots
+bidauxpoto/fasta2oneline	include	repository name indicates FASTA sequence handling			Shell	0.0	0.0	0.0	bidauxpoto/fasta2oneline
+bidauxpoto/get_fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	bidauxpoto/get_fasta
+bigyambat/Masked_FASTA_Generation	include	metadata indicates biological FASTA use	Script to Create Masked FASTA Reference FASTA and Index based on Bed File		Shell	0.0	0.0	0.0	bigyambat/masked_fasta_generation
+binita920/python-fasta	exclude	insufficient metadata to establish biological FASTA use	Repo for Scicomp workshop		Python	0.0	0.0	0.0	binita920/python-fasta
+bioautoai/fasta2pdb	include	repository name indicates FASTA sequence handling			Shell	0.0	0.0	0.0	bioautoai/fasta2pdb
+biobenkj/restrand-fasta	include	repository name indicates FASTA sequence handling			Rust	0.0	0.0	0.0	biobenkj/restrand-fasta
+BioGUIwslLab/FASTA-Flattener	include	repository name indicates FASTA sequence handling	Multi  to 2 line FASTA conversion		Python	0.0	0.0	0.0	bioguiwsllab/fasta-flattener
+BioGUIwslLab/FASTA-Small-Seq-Collector	include	metadata indicates biological FASTA use	Windows GUI app that collects sequences with length <= 300 for effectome analysis	fasta;gui;wsl1	Python	0.0	0.0	0.0	bioguiwsllab/fasta-small-seq-collector
+BioInf-Wuerzburg/perl5lib-Fasta	include	metadata indicates biological FASTA use	leightweight, oo-stlye FASTA modules		Perl	2.0	0.0	0.0	bioinf-wuerzburg/perl5lib-fasta
+Bioinformaticswork46/Homo-Sapiens-FASTA	include	metadata indicates biological FASTA use				0.0	0.0	0.0	bioinformaticswork46/homo-sapiens-fasta
+BioinformatikGoettingen/TFClassFASTA	include	metadata indicates biological FASTA use			Java	0.0	0.0	0.0	bioinformatikgoettingen/tfclassfasta
+BioInUmer/fastq2fasta	include	metadata indicates biological FASTA use	FASTQ to FASTA, Solved Twice. A pair of robust Bash and Python tools to convert fastq files to fasta, to minimize file size and ensure compatibility with FASTA-only bioinformatics programs.		Python	1.0	0.0	0.0	bioinumer/fastq2fasta
+biopolly/new-fasta-analizer	exclude	insufficient metadata to establish biological FASTA use			Jupyter Notebook	4.0	0.0	0.0	biopolly/new-fasta-analizer
+biopyladies/basic-fasta-utils	include	repository name indicates FASTA sequence handling			Jupyter Notebook	1.0	0.0	0.0	biopyladies/basic-fasta-utils
+bioramonmoratori/ProcessamentoGenesFASTA	include	metadata indicates biological FASTA use	Transformando genomas FASTA em uma lista de códons e de aminoácidos. [pandas] [numpy] [machine learning].		Python	0.0	0.0	0.0	bioramonmoratori/processamentogenesfasta
+bioShaun/align-fasta	include	repository name indicates FASTA sequence handling			Vue	0.0	0.0	0.0	bioshaun/align-fasta
+birc-gsa/fasta-c-cmake	exclude	insufficient metadata to establish biological FASTA use	GSA project		Shell	0.0	0.0	0.0	birc-gsa/fasta-c-cmake
+birc-gsa/fasta-go	exclude	insufficient metadata to establish biological FASTA use	GSA project		Shell	0.0	0.0	0.0	birc-gsa/fasta-go
+birc-gsa/fasta-python	exclude	insufficient metadata to establish biological FASTA use	GSA project		Shell	0.0	0.0	0.0	birc-gsa/fasta-python
+Bisendo/DukaFasta	exclude	insufficient metadata to establish biological FASTA use			JavaScript	0.0	0.0	0.0	bisendo/dukafasta
+bishoyh/fq2fasta	include	metadata indicates biological FASTA use	convert fastq to fasta very fast!	fasta;fastq	C++	0.0	0.0	0.0	bishoyh/fq2fasta
+bjtha/rust_fasta	include	metadata indicates biological FASTA use	Personal bioinformatics project as an exercise in Rust		Rust	0.0	0.0	0.0	bjtha/rust_fasta
+blakesweeney/GG2Fasta	include	repository name indicates FASTA conversion/handling	Turn greengenes format into Fasta+JSON		Python	2.0	1.0	0.0	blakesweeney/gg2fasta
+BlingArida/Fasta_antibody_library	include	metadata indicates biological FASTA use	Convert fasta to a.a. distribution		Jupyter Notebook	0.0	0.0	0.0	blingarida/fasta_antibody_library
+bochaozhang/makeCloneFasta	include	repository name indicates FASTA sequence handling			Shell	0.0	0.0	0.0	bochaozhang/makeclonefasta
+boehmax/extract-fasta-from-csv	include	repository name indicates FASTA sequence handling	This repo has been moved to codeberg		Python	0.0	1.0	0.0	boehmax/extract-fasta-from-csv
+bogati42/fasta-pdb-converter	include	metadata indicates biological FASTA use	Convert between FASTA and PDB file formats for bioinformatics analysis		TypeScript	0.0	0.0	0.0	bogati42/fasta-pdb-converter
+bos/shootout-fasta	include	metadata indicates biological FASTA use	A Haskell fasta implementation for the programming language shootout		Haskell	4.0	0.0	0.0	bos/shootout-fasta
+boulund/go-count-fasta	include	repository name indicates FASTA sequence handling			Go	0.0	0.0	0.0	boulund/go-count-fasta
+boyur/fasta-web	exclude	insufficient metadata to establish biological FASTA use			CSS	0.0	0.0	0.0	boyur/fasta-web
+brandcm/add_variants_to_FASTA	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	brandcm/add_variants_to_fasta
+brandmathias/FASTA-BLAST_PencarianBasisData	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	brandmathias/fasta-blast_pencarianbasisdata
+Brandommtz/fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	brandommtz/fasta
+Brandommtz/Practica-fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	brandommtz/practica-fasta
+brigidar/fasta_sorting	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	brigidar/fasta_sorting
+brigub/analizador-fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	brigub/analizador-fasta
+brigub/gc-fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	brigub/gc-fasta
+brucexhuang/convert-fasta	include	metadata indicates biological FASTA use	convert fasta			0.0	0.0	0.0	brucexhuang/convert-fasta
+Brunofell/FASTA	exclude	insufficient metadata to establish biological FASTA use	Versão correta do arquivo de envio		Java	0.0	0.0	0.0	brunofell/fasta
+brunomaestri/uproteins-tsv2fasta	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	brunomaestri/uproteins-tsv2fasta
+brunonevado/fasta2paml	include	repository name indicates FASTA conversion/handling	prepare input files for paml		C++	0.0	0.0	0.0	brunonevado/fasta2paml
+bsg258576/FASTA-Sorter-Utility	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	bsg258576/fasta-sorter-utility
+buchanae/fastq_to_fasta	include	metadata indicates biological FASTA use			C++	1.0	0.0	0.0	buchanae/fastq_to_fasta
+BuildForSDG/FASTA	exclude	metadata indicates unrelated use of FASTA term/acronym	This is the BuildForSDG project for team-002		JavaScript	5.0	0.0	0.0	buildforsdg/fasta
+Bukreevaa/Get_consensus_fasta	include	metadata indicates biological FASTA use	A program for obtaining consensus sequences for samples from a given VCF file based on a reference FASTA and a specified frequency threshold.		Python	0.0	0.0	0.0	bukreevaa/get_consensus_fasta
+Burnsedia/pydantic-ai-fastapi-fasta2a-fastmcp	exclude	metadata indicates unrelated use of FASTA term/acronym	learning fastapi fastmpc, fasta2a and pydantic ai	ai;fastapi;learning;pydantic-ai;python	Python	0.0	0.0	0.0	burnsedia/pydantic-ai-fastapi-fasta2a-fastmcp
+CaileanCarter/EMBLtoFASTA	include	metadata indicates biological FASTA use	Convert EMBL files to FASTA	embl;fasta-format	Python	0.0	0.0	0.0	caileancarter/embltofasta
+CaileanCarter/Tabular2FASTA	include	repository name indicates FASTA conversion/handling			Python	0.0	0.0	0.0	caileancarter/tabular2fasta
+CAIOAGRO0/FASTA-Furious	include	metadata indicates biological FASTA use	Este é uma tentativa de criar um executável em python para ajudar colegas de laboratório a extrair (subset) informações de um banco de dados de sequências biológicas (proteínas, genes...) no formato *.fasta* com base em uma lista de identificadores das sequências desejadas.		Python	0.0	0.0	0.0	caioagro0/fasta-furious
+CamiVazEche/BETTA_STRONGA_FASTA	exclude	insufficient metadata to establish biological FASTA use	CSHL project		Python	0.0	0.0	0.0	camivazeche/betta_stronga_fasta
+carloSalda/analisisSARS-CodigoR-FASTA-	include	metadata indicates biological FASTA use	Análisis filogenético del SARS-CoV-2 en 20 países. Comprende la evolución del virus y sus variantes genéticas con visualizaciones en R		R	1.0	0.0	0.0	carlosalda/analisissars-codigor-fasta-
+CarlosDanielVegaDragif/TypeFasta	exclude	insufficient metadata to establish biological FASTA use	A competitive typing game with steamworks lobbys of 2-7 players		C#	0.0	0.0	0.0	carlosdanielvegadragif/typefasta
+CarolinaBio2/Convertendo-arquivos-GBFF-em-FASTA-com-biopython-	include	metadata indicates biological FASTA use			Jupyter Notebook	0.0	0.0	0.0	carolinabio2/convertendo-arquivos-gbff-em-fasta-com-biopython-
+CarolinaBio2/inspecionando-arquivos-FASTA	include	metadata indicates biological FASTA use	inspecionando arquivos FASTA com o biopython		Jupyter Notebook	0.0	0.0	0.0	carolinabio2/inspecionando-arquivos-fasta
+CarolinaBio2/inspecionando-arquivos-FASTA-de-genes-e-prote-nas-com-o-biopython	include	metadata indicates biological FASTA use	inspecionando arquivos FASTA de genes e proteínas com o biopython		Jupyter Notebook	0.0	0.0	0.0	carolinabio2/inspecionando-arquivos-fasta-de-genes-e-prote-nas-com-o-biopython
+CarolinaBio2/Lendo-e-escrevendo-em-FASTA-com-biopython	include	metadata indicates biological FASTA use			Jupyter Notebook	0.0	0.0	0.0	carolinabio2/lendo-e-escrevendo-em-fasta-com-biopython
+carolinaseixas/bioinfo_fasta_tabela	include	metadata indicates biological FASTA use	Cria uma tabela de sequências genômicas com bases separadas a partir de um arquivo fasta		Jupyter Notebook	0.0	0.0	0.0	carolinaseixas/bioinfo_fasta_tabela
+carolynhelene/python-fasta	exclude	insufficient metadata to establish biological FASTA use	GCB Academy learning		Python	0.0	0.0	0.0	carolynhelene/python-fasta
+carushi/ushffleFasta	include	metadata indicates biological FASTA use	ushffle for Fasta in Python		Python	0.0	0.0	0.0	carushi/ushfflefasta
+ccdc-opensource/conan-fasta	exclude	insufficient metadata to establish biological FASTA use		ccdc-3rd-party;conan	Python	0.0	1.0	0.0	ccdc-opensource/conan-fasta
+cchang016/python-fasta	exclude	insufficient metadata to establish biological FASTA use	Repo for SciComp workshop		Python	0.0	0.0	0.0	cchang016/python-fasta
+CDCgov/CSV2FASTA	include	repository name indicates FASTA sequence handling	A little web tool to help people translate CSVs to FASTA and vice-versa.		HTML	3.0	0.0	0.0	cdcgov/csv2fasta
+centrotutorial/ExamenFasta	exclude	insufficient metadata to establish biological FASTA use	Examenes de Fasta 			0.0	0.0	0.0	centrotutorial/examenfasta
+cgroza/bamFasta	include	metadata indicates biological FASTA use	Replace FASTA intervals with the sequence of aligned reads from SAM/BAM.		Python	0.0	0.0	0.0	cgroza/bamfasta
+Chaaghn/fasta_interact_extract	include	metadata indicates biological FASTA use	Interactive attribute-driven multiple contig extractor		Python	0.0	0.0	0.0	chaaghn/fasta_interact_extract
+ChangLiu23UIC/Rust_practice_for_fasta	exclude	insufficient metadata to establish biological FASTA use			Rust	0.0	0.0	0.0	changliu23uic/rust_practice_for_fasta
+charleshefer/smk_fasta_deduplication	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	charleshefer/smk_fasta_deduplication
+chchch/fasta-to-nexus	include	repository name indicates FASTA conversion/handling	FASTA to NEXUS file converter		CSS	0.0	0.0	0.0	chchch/fasta-to-nexus
+CheeseInTrap/FastA	exclude	insufficient metadata to establish biological FASTA use			Java	0.0	0.0	0.0	cheeseintrap/fasta
+ChengJchen/Fasta_extracter	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	chengjchen/fasta_extracter
+Chinz1/fasta-app	exclude	insufficient metadata to establish biological FASTA use			Dart	0.0	0.0	0.0	chinz1/fasta-app
+choipenguin/fasta	include	metadata indicates biological FASTA use	fasta reading			0.0	0.0	0.0	choipenguin/fasta
+chrisrmt/fasta-concat-web	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	chrisrmt/fasta-concat-web
+ChristinaMeno/fasta-truncate	include	metadata indicates biological FASTA use	trim sequence descriptions so certain unnamed bio-tools won't barf.		Python	1.0	0.0	0.0	christinameno/fasta-truncate
+chusiping/fasta	exclude	insufficient metadata to establish biological FASTA use	命令行快速启动程序及其他		C#	0.0	0.0	0.0	chusiping/fasta
+cidinaria/Tabular-to-FASTA	include	repository name indicates FASTA conversion/handling				0.0	0.0	0.0	cidinaria/tabular-to-fasta
+cinepost/fasta	exclude	insufficient metadata to establish biological FASTA use			C++	0.0	0.0	0.0	cinepost/fasta
+CJFaber/fasta2bit_cl_aws	include	repository name indicates FASTA conversion/handling			C++	0.0	0.0	0.0	cjfaber/fasta2bit_cl_aws
+claratejido/FASTQ-FASTA-preprocessor-script	include	metadata indicates biological FASTA use	Implement a python tool that, given a FASTA or FASTQ file, preprocess all the sequences contained in it. The tool has to be able to perform, reverse-complement, trim, and adaptor-removal.		Python	0.0	0.0	0.0	claratejido/fastq-fasta-preprocessor-script
+claravazq/QP-recovering-FASTA	include	metadata indicates biological FASTA use	Recovering sequences from the original fastq files based on the bioinformatical analysis 		R	0.0	0.0	0.0	claravazq/qp-recovering-fasta
+claricepark/ShuffleFasta	exclude	insufficient metadata to establish biological FASTA use			Java	0.0	0.0	0.0	claricepark/shufflefasta
+clarkg/d-fasta-bench	exclude	insufficient metadata to establish biological FASTA use	D submission for http://benchmarksgame.alioth.debian.org/u32/performance.php?test=fasta		D	0.0	0.0	0.0	clarkg/d-fasta-bench
+cleberaksenen/manipulador-fasta	include	repository name indicates FASTA sequence handling			Python	1.0	0.0	0.0	cleberaksenen/manipulador-fasta
+clodaghmcguire/get-fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	clodaghmcguire/get-fasta
+CMHanna/CopyFasta	exclude	insufficient metadata to establish biological FASTA use	JSFL script to copy library assets from one source Flash document to many target Flash documents		JavaScript	3.0	0.0	0.0	cmhanna/copyfasta
+cnhaines/python-fasta	exclude	insufficient metadata to establish biological FASTA use	Repo for SciComp workshop		Python	0.0	0.0	0.0	cnhaines/python-fasta
+Coaxecva/GenBank-to-FASTA	include	repository name indicates FASTA sequence handling	Fix to run with python3, originally from https://rocaplab.ocean.washington.edu/tools/genbank_to_fasta/		Python	1.0	0.0	0.0	coaxecva/genbank-to-fasta
+codernona/Fasta_scan	exclude	insufficient metadata to establish biological FASTA use			Shell	0.0	0.0	0.0	codernona/fasta_scan
+collinmatimbw/laundry_fasta	exclude	insufficient metadata to establish biological FASTA use			Jupyter Notebook	0.0	0.0	0.0	collinmatimbw/laundry_fasta
+collinzimm/fasta-fastqFileOperations	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	collinzimm/fasta-fastqfileoperations
+ComputationalPathogens/fasta_cleaner	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	computationalpathogens/fasta_cleaner
+conchoecia/fasta_stats	include	repository name indicates FASTA sequence handling	standalone fasta_stats from Meraculous		C++	4.0	0.0	0.0	conchoecia/fasta_stats
+conda-forge/fasta-feedstock	exclude	insufficient metadata to establish biological FASTA use	A conda-smithy repository for fasta.			0.0	0.0	0.0	conda-forge/fasta-feedstock
+conda-forge/fasta2a-feedstock	include	repository name indicates FASTA conversion/handling	A conda-smithy repository for fasta2a.			0.0	0.0	0.0	conda-forge/fasta2a-feedstock
+conda-forge/jupyterlab-fasta-feedstock	exclude	insufficient metadata to establish biological FASTA use	A conda-smithy repository for jupyterlab-fasta.			0.0	0.0	0.0	conda-forge/jupyterlab-fasta-feedstock
+coreymhudson/mcp-fasta	exclude	insufficient metadata to establish biological FASTA use	FASTA Interaction MCP Server		TypeScript	0.0	0.0	0.0	coreymhudson/mcp-fasta
+CorinYeatsCGPS/sanitise-fasta	exclude	insufficient metadata to establish biological FASTA use			Go	0.0	0.0	0.0	corinyeatscgps/sanitise-fasta
+corporaciontravel21-dot/l4d2-fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	corporaciontravel21-dot/l4d2-fasta
+CRAGENOMICA/fasta2tfasta	include	metadata indicates biological FASTA use			Roff	0.0	0.0	0.0	cragenomica/fasta2tfasta
+cran/fasta	exclude	insufficient metadata to establish biological FASTA use	:exclamation: This is a read-only mirror of the CRAN R package repository.  fasta — Fast Adaptive Shrinkage/Thresholding Algorithm  		R	0.0	0.0	0.0	cran/fasta
+ctb/sourmash_plugin_load_from_fasta	include	metadata indicates biological FASTA use	An experimental plugin to load sketches from a FASTA/FASTQ file with lazy sketching.		Python	2.0	0.0	0.0	ctb/sourmash_plugin_load_from_fasta
+Da1suKE66/FastA2V	include	repository name indicates FASTA conversion/handling			Python	0.0	0.0	0.0	da1suke66/fasta2v
+daanhaimovich-cmyk/Fasta	exclude	insufficient metadata to establish biological FASTA use	personal trainer connection		TypeScript	0.0	0.0	0.0	daanhaimovich-cmyk/fasta
+dagungjaya58-collab/fasta-social	exclude	insufficient metadata to establish biological FASTA use			Batchfile	0.0	0.0	0.0	dagungjaya58-collab/fasta-social
+daledsz/FASTA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	daledsz/fasta
+DamienFr/Extract_specific_sequence_from_fasta_or_fastq	include	metadata indicates biological FASTA use			Perl	0.0	0.0	0.0	damienfr/extract_specific_sequence_from_fasta_or_fastq
+danielmbsales/fasta_analyzer	include	repository name indicates FASTA sequence handling	Python Notebook - FASTA analysis with chart		Jupyter Notebook	0.0	0.0	0.0	danielmbsales/fasta_analyzer
+danielmose/Mose-fasta	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	danielmose/mose-fasta
+DanielOlson/clusterm8fasta	include	metadata indicates biological FASTA use	Create uniref fasta clusters using an m8 file		Python	0.0	0.0	0.0	danielolson/clusterm8fasta
+dantaki/fastq2fasta	include	metadata indicates biological FASTA use	Convert FASTQ to FASTA with C++		C++	3.0	0.0	0.0	dantaki/fastq2fasta
+Daria-bioinf/FASTA	exclude	insufficient metadata to establish biological FASTA use			C#	0.0	0.0	0.0	daria-bioinf/fasta
+Dariwala/PBR-predict-FASTA	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	dariwala/pbr-predict-fasta
+datalayer/fasta2a	exclude	metadata indicates FASTA algorithm/acronym rather than FASTA format use	🤖 Convert an AI Agent into a A2A server.	a2a;agent;ai	Python	220.0	0.0	0.0	datalayer/fasta2a
+daudi4954-lgtm/PRINT-FASTA	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	daudi4954-lgtm/print-fasta
+daudi4954-lgtm/PRINTEY-FASTA	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	daudi4954-lgtm/printey-fasta
+dbancajas/fasta	exclude	insufficient metadata to establish biological FASTA use	This is a Fast STA timing analysis tool.			0.0	0.0	0.0	dbancajas/fasta
+dbopendata/db-fasta-api-java-client	exclude	insufficient metadata to establish biological FASTA use	Java Client for the DB FaSta API - Station Facilities Status		Batchfile	3.0	0.0	0.0	dbopendata/db-fasta-api-java-client
+debojyotidasresearch/fasta_fastq_basics	include	metadata indicates biological FASTA use	scripts for manipulating some basic fasta and fastq files		Python	0.0	0.0	0.0	debojyotidasresearch/fasta_fastq_basics
+dechavezv/Genes_from_BAM-FASTA	include	metadata indicates biological FASTA use	Get sequences form coordinates of genes in bed file  		Shell	0.0	0.0	0.0	dechavezv/genes_from_bam-fasta
+Delvalle-beep/FASTAQ_to_FASTA	include	repository name indicates FASTA conversion/handling	Python script  to convert files with the .fastaq.gz extension to .fasta. 		Python	0.0	0.0	0.0	delvalle-beep/fastaq_to_fasta
+DEM3NTION/FASTA2-chess-game-in-haskell	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	dem3ntion/fasta2-chess-game-in-haskell
+DEM3NTION/fasta3	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	dem3ntion/fasta3
+demar01/RP_fasta	exclude	insufficient metadata to establish biological FASTA use			R	0.0	0.0	0.0	demar01/rp_fasta
+denissexgp/analizador-fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	denissexgp/analizador-fasta
+denissexgp/gc-fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	denissexgp/gc-fasta
+DenisVerkhoturov/fasta	exclude	insufficient metadata to establish biological FASTA use	Research project		Java	0.0	0.0	0.0	denisverkhoturov/fasta
+deprekate/fasta36	include	metadata indicates biological FASTA use	A python port of the fasta36 genomic sequence search code		C	0.0	0.0	0.0	deprekate/fasta36
+dericking01/Kazi-Fasta	exclude	metadata indicates unrelated use of FASTA term/acronym	React Native mobile app that lets you find a job of interest	api-rest;expo-cli;react-native	JavaScript	3.0	0.0	0.0	dericking01/kazi-fasta
+devan0404/fasta-to-coe-file-converter	include	repository name indicates FASTA sequence handling			Verilog	0.0	0.0	0.0	devan0404/fasta-to-coe-file-converter
+devhimd19/multilinefasta_singlelinefasta	include	metadata indicates biological FASTA use	Conversion of multiline-FASTA to singleline-FASTA_Webserver		HTML	0.0	0.0	0.0	devhimd19/multilinefasta_singlelinefasta
+dfornika/fasta_abricate_gene_trim	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	dfornika/fasta_abricate_gene_trim
+dhanarajappu456/lady_orchid_database_fasta	include	metadata indicates biological FASTA use	Introductory familiarization of biopython on lady orchid database.fasta from NCBI 		Python	0.0	0.0	0.0	dhanarajappu456/lady_orchid_database_fasta
+DIAMARICERDA/secuencia.-fasta	include	metadata indicates biological FASTA use				0.0	0.0	0.0	diamaricerda/secuencia.-fasta
+didillysquat/fasta2net	include	repository name indicates FASTA conversion/handling	Haplotypic network creation. Wrapper around various tools to make network creation simpler. Currently in flux.		Python	0.0	0.0	0.0	didillysquat/fasta2net
+dileeme/FASTA-read-techniques	include	repository name indicates FASTA sequence handling	all things FASTA			0.0	0.0	0.0	dileeme/fasta-read-techniques
+dileswarherna009/Plant-FASTA-and-Sequence-Toolkit	include	metadata indicates biological FASTA use				0.0	0.0	0.0	dileswarherna009/plant-fasta-and-sequence-toolkit
+djleite/fasta2GTF	include	repository name indicates FASTA conversion/handling	Builds a GTF file for a fasta		Python	0.0	0.0	0.0	djleite/fasta2gtf
+djulr/Analizator-FASTA-Programowanie-wizualne-10	exclude	insufficient metadata to establish biological FASTA use			C#	0.0	0.0	0.0	djulr/analizator-fasta-programowanie-wizualne-10
+DLBPointon/fasta-fixa	include	metadata indicates biological FASTA use	Rust based FASTA manipulation program,		Rust	0.0	0.0	0.0	dlbpointon/fasta-fixa
+dmelguizo/new_length_seq_fasta_R	include	repository name indicates FASTA sequence handling			Nextflow	0.0	0.0	0.0	dmelguizo/new_length_seq_fasta_r
+dmelguizo/nextflow_count_seq_fasta	include	repository name indicates FASTA sequence handling			Nextflow	0.0	0.0	0.0	dmelguizo/nextflow_count_seq_fasta
+dmicheel/fasta-to-decoy-digest	include	repository name indicates FASTA conversion/handling			Java	0.0	0.0	0.0	dmicheel/fasta-to-decoy-digest
+docker-rubygem/fasta_read	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	docker-rubygem/fasta_read
+docker-rubygem/fasta_util	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	docker-rubygem/fasta_util
+Dondonn/mergeFASTA	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	dondonn/mergefasta
+dongshuyan/pdb2fasta	include	repository name indicates FASTA sequence handling	change format from pdb to fasta .python file change from https://gist.github.com/jameslyons/00cad4f1ab6a49c2b3df .And C++ file is written by myself.		C++	9.0	0.0	0.0	dongshuyan/pdb2fasta
+dowlir/FASTA	include	metadata indicates biological FASTA use	looking at ORFs		Python	0.0	0.0	0.0	dowlir/fasta
+drauso/fasta	exclude	insufficient metadata to establish biological FASTA use			Java	0.0	0.0	0.0	drauso/fasta
+DRL/exonerate_gff_to_fasta	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	drl/exonerate_gff_to_fasta
+DrNagendra619/PARSING-FASTA-AND-GENBANK-FILES	include	metadata indicates biological FASTA use	PARSING FILES 		Jupyter Notebook	0.0	0.0	0.0	drnagendra619/parsing-fasta-and-genbank-files
+dsjghkjdfhgjdfg/gene.fasta	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	dsjghkjdfhgjdfg/gene.fasta
+durvadeshmukh19-prog/FASTA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	durvadeshmukh19-prog/fasta
+dzmitrybio/fastq2fasta	include	metadata indicates biological FASTA use	AWK script for conversion of fastq to fasta. 		Awk	0.0	0.0	0.0	dzmitrybio/fastq2fasta
+eassuncao/fasta_inspector	include	metadata indicates biological FASTA use	Fasta Inspector		Python	0.0	0.0	0.0	eassuncao/fasta_inspector
+ecotoneservice/Embarrassingly_FASTA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	ecotoneservice/embarrassingly_fasta
+EDario333/fasta-to-smiles	include	repository name indicates FASTA conversion/handling			Julia	0.0	0.0	0.0	edario333/fasta-to-smiles
+eddiegrinman/Python-Fasta-pipeline	include	metadata indicates biological FASTA use	A series of codes for conveniently handling and analyzing oligonucleotide sequence data in Python		Python	0.0	0.0	0.0	eddiegrinman/python-fasta-pipeline
+edecocke-uncc/FASTA-Analysis	include	repository name indicates FASTA sequence handling	this is a HW repository 		Python	0.0	0.0	0.0	edecocke-uncc/fasta-analysis
+eetxlek/Fasta	include	metadata indicates biological FASTA use	Analizador de secuencia genética		Python	0.0	0.0	0.0	eetxlek/fasta
+eggomez/python-fasta	include	metadata indicates biological FASTA use	Revcom fasta		Python	0.0	0.0	0.0	eggomez/python-fasta
+ekg/fasta-to-fastq	include	metadata indicates biological FASTA use	Automatically exported from code.google.com/p/fasta-to-fastq		Perl	1.0	0.0	0.0	ekg/fasta-to-fastq
+ekg/hamming-fasta	include	metadata indicates biological FASTA use	brute force online sequence similarity search		Rust	8.0	0.0	0.0	ekg/hamming-fasta
+ekoontz/fasta	exclude	insufficient metadata to establish biological FASTA use			Scala	0.0	0.0	0.0	ekoontz/fasta
+eleonorecharles/fasta2a	include	repository name indicates FASTA conversion/handling			Python	0.0	0.0	0.0	eleonorecharles/fasta2a
+ElhabashyLab/trim_fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	elhabashylab/trim_fasta
+Eliah7/NFood-Fasta-App	exclude	metadata indicates unrelated use of FASTA term/acronym			Java	0.0	0.0	0.0	eliah7/nfood-fasta-app
+Eliah7/PhpFoodFasta	exclude	metadata indicates unrelated use of FASTA term/acronym			PHP	0.0	0.0	0.0	eliah7/phpfoodfasta
+Elias-GPT/fos_fasta_pipeline	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	elias-gpt/fos_fasta_pipeline
+Elias-GPT/fos_fasta_pipeline_Proyecto1	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	elias-gpt/fos_fasta_pipeline_proyecto1
+Elirainbow/analizador_fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	elirainbow/analizador_fasta
+Elirainbow/gc_fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	elirainbow/gc_fasta
+Eman-hamza/human_fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	eman-hamza/human_fasta
+emptyport/fasta-js	exclude	insufficient metadata to establish biological FASTA use			JavaScript	1.0	0.0	0.0	emptyport/fasta-js
+emptyport/fasta-stats	include	repository name indicates FASTA sequence handling			HTML	0.0	0.0	0.0	emptyport/fasta-stats
+EnesTahaTorun/Genomik_Fasta_Okuyucu_IU	include	metadata indicates biological FASTA use	Uzun nükleotid dizilireini analizinde kullanılır 		Python	0.0	0.0	0.0	enestahatorun/genomik_fasta_okuyucu_iu
+EnisSah/fasta_tabular_credit_cars_analysis	include	repository name indicates FASTA sequence handling			Jupyter Notebook	0.0	0.0	0.0	enissah/fasta_tabular_credit_cars_analysis
+eoinmeyler/FASTA	exclude	insufficient metadata to establish biological FASTA use	FASTA		Java	1.0	0.0	0.0	eoinmeyler/fasta
+ericbrooks645/FASTA-to-Numpy-Array	include	repository name indicates FASTA conversion/handling				0.0	0.0	0.0	ericbrooks645/fasta-to-numpy-array
+ericopolo/discoSNPtoFASTA	include	repository name indicates FASTA conversion/handling			Perl	0.0	0.0	0.0	ericopolo/discosnptofasta
+erinijapranckeviciene/change_fasta	exclude	insufficient metadata to establish biological FASTA use			Shell	0.0	0.0	0.0	erinijapranckeviciene/change_fasta
+eriqande/make-ancestral-fasta-snakeflow	exclude	insufficient metadata to establish biological FASTA use		noaa-omics-software	Python	3.0	0.0	0.0	eriqande/make-ancestral-fasta-snakeflow
+estavrionto/FASTA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	estavrionto/fasta
+Estebans441/Proyecto-Genoma-Fasta	include	metadata indicates biological FASTA use	Proyecto de manejo de estructuras de datos aplicado a encriptacion y desencriptacion de secuencias geneticas.		C++	1.0	0.0	0.0	estebans441/proyecto-genoma-fasta
+etyanglinus/fasta-admin	exclude	insufficient metadata to establish biological FASTA use			Blade	0.0	0.0	0.0	etyanglinus/fasta-admin
+etyanglinus/fasta-courier	exclude	insufficient metadata to establish biological FASTA use			Dart	0.0	0.0	0.0	etyanglinus/fasta-courier
+etyanglinus/fasta-vendor	exclude	insufficient metadata to establish biological FASTA use			Dart	0.0	0.0	0.0	etyanglinus/fasta-vendor
+etyanglinus/fasta_rides_user	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	etyanglinus/fasta_rides_user
+Euhene93/AlleleDetectionForFasta	include	metadata indicates biological FASTA use				0.0	0.0	0.0	euhene93/alleledetectionforfasta
+evgeny-bakin/All-about-FASTA	include	metadata indicates biological FASTA use	Bioinformatics institute, Autumn-2018. Development of a tool for FASTA/FASTQ processing.		Python	1.0	0.0	0.0	evgeny-bakin/all-about-fasta
+evolighting/pac2fasta	include	repository name indicates FASTA conversion/handling	bwa index to fasta		Python	3.0	0.0	0.0	evolighting/pac2fasta
+Facer-Jordan/SylwesterUFASTA	exclude	insufficient metadata to establish biological FASTA use	licznik sylwester u fasta pzdr 		HTML	0.0	0.0	0.0	facer-jordan/sylwesterufasta
+fairliiight/fasta_bootstrap	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	fairliiight/fasta_bootstrap
+Fastaapp/Fasta-Website	exclude	insufficient metadata to establish biological FASTA use			TypeScript	0.0	0.0	0.0	fastaapp/fasta-website
+fastabee/hackaton_fasta	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	fastabee/hackaton_fasta
+fastabee/imago_fasta_feedback	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	fastabee/imago_fasta_feedback
+fastabee/imago_fasta_tes1	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	fastabee/imago_fasta_tes1
+fastabee/scraping_imago_fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	fastabee/scraping_imago_fasta
+fastaopticians/fasta-assets	include	repository name indicates FASTA sequence handling	Product Images and Other assets required for the wesbite			0.0	0.0	0.0	fastaopticians/fasta-assets
+fastapee/fasta	exclude	insufficient metadata to establish biological FASTA use	jewelry making			0.0	0.0	0.0	fastapee/fasta
+FastaQuadruped/fasta.github.io	exclude	insufficient metadata to establish biological FASTA use	Documentation website for Fasta robotics			0.0	0.0	0.0	fastaquadruped/fasta.github.io
+Fasterman3/fasta	exclude	insufficient metadata to establish biological FASTA use	fasta			1.0	0.0	0.0	fasterman3/fasta
+FatemehMhbi/extract_seq_from_fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	fatemehmhbi/extract_seq_from_fasta
+FaVstarr/FASTA-repo	exclude	insufficient metadata to establish biological FASTA use			JavaScript	1.0	0.0	0.0	favstarr/fasta-repo
+Fede-Berga/Fastq-Fasta	include	metadata indicates biological FASTA use	Convertitore Fastq-Fasta		Jupyter Notebook	0.0	0.0	0.0	fede-berga/fastq-fasta
+Federicotrotta24/fasta-analyzer	include	repository name indicates FASTA sequence handling			Shell	0.0	0.0	0.0	federicotrotta24/fasta-analyzer
+fehimenuruysal/Fasta_Dosya_Islemleri	include	metadata indicates biological FASTA use	Blomsum62 matrisi ve Needleman Wunsch algoritması kullanılmıştır.		Python	2.0	0.0	0.0	fehimenuruysal/fasta_dosya_islemleri
+felipe-dna/fasta	include	metadata indicates biological FASTA use			Python	2.0	0.0	0.0	felipe-dna/fasta
+FenosoaRandrianjatovo/Fastq_to_Fasta_Fasta_Quality	include	metadata indicates biological FASTA use			Perl	0.0	0.0	0.0	fenosoarandrianjatovo/fastq_to_fasta_fasta_quality
+fervenegas1125/analizador_fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	fervenegas1125/analizador_fasta
+fibetus/Random-FASTA-Generator	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	fibetus/random-fasta-generator
+Filippo-Donini/Genomics-Fasta-parsing	include	metadata indicates biological FASTA use			Python	1.0	0.0	0.0	filippo-donini/genomics-fasta-parsing
+fitbanana/python-fasta	exclude	insufficient metadata to establish biological FASTA use	Repo for SciComp workshop		Python	0.0	0.0	0.0	fitbanana/python-fasta
+fmhirwa/django-fasta	exclude	insufficient metadata to establish biological FASTA use			Dockerfile	0.0	0.0	0.0	fmhirwa/django-fasta
+fmhirwa/fasta	exclude	insufficient metadata to establish biological FASTA use	A CLI to help you set up faster with installing dependencies + dockerized boilerplates		JavaScript	0.0	0.0	0.0	fmhirwa/fasta
+fmolls/fasta_to_pca	include	repository name indicates FASTA conversion/handling			Python	0.0	0.0	0.0	fmolls/fasta_to_pca
+fojackson8/fasta_generator	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	fojackson8/fasta_generator
+fplazaonate/csfasta-fasta-conv	include	metadata indicates biological FASTA use	Program that converts files from csfasta format to fasta and the other way around.		C++	1.0	0.0	0.0	fplazaonate/csfasta-fasta-conv
+franmbs/UniversidadFasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	franmbs/universidadfasta
+fujiapples/fasta-to-fastq	include	metadata indicates biological FASTA use	Automatically exported from code.google.com/p/fasta-to-fastq		Perl	0.0	0.0	0.0	fujiapples/fasta-to-fastq
+fulopjoz/rapid_fasta_analysis	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	fulopjoz/rapid_fasta_analysis
+furahinibedon-arch/afar-mkopo-fasta	exclude	insufficient metadata to establish biological FASTA use	AFAR MIKOPO FASTA		TypeScript	0.0	0.0	0.0	furahinibedon-arch/afar-mkopo-fasta
+gabe-raulet/fasta_map	exclude	insufficient metadata to establish biological FASTA use			C	0.0	0.0	0.0	gabe-raulet/fasta_map
+GABRAH/FASTA-Glycan-Seqon-Checker	include	repository name indicates FASTA sequence handling			C++	0.0	1.0	0.0	gabrah/fasta-glycan-seqon-checker
+gael-millot/table2fasta	include	repository name indicates FASTA conversion/handling			R	0.0	0.0	0.0	gael-millot/table2fasta
+gaiban/python-fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	gaiban/python-fasta
+garudlab/fasta_snv_caller	include	metadata indicates biological FASTA use	a simple way to call SNPs from fastas. Managed by Peter Laurin 		Python	2.0	0.0	0.0	garudlab/fasta_snv_caller
+gchadwick/fasta_to_arb	include	repository name indicates FASTA conversion/handling	Convert a fasta from the Silva aligner into a format that works for inport into arb		Python	0.0	0.0	0.0	gchadwick/fasta_to_arb
+gcollet/split_fasta	include	metadata indicates biological FASTA use	split_fasta		C++	1.0	0.0	0.0	gcollet/split_fasta
+gebre037/script-for-indexing-fasta	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	gebre037/script-for-indexing-fasta
+geedrn/extract_fasta	include	repository name indicates FASTA sequence handling			R	0.0	0.0	0.0	geedrn/extract_fasta
+genome-regulation/ManipulateFasta	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	genome-regulation/manipulatefasta
+genomeannotation/fasta_length	include	metadata indicates biological FASTA use	Generates sequence length histogram from several fastas		Python	0.0	0.0	0.0	genomeannotation/fasta_length
+GenomicaMicrob/fasta_cleaner	include	metadata indicates biological FASTA use	A bash script to rename and clean multifasta files		Shell	0.0	0.0	0.0	genomicamicrob/fasta_cleaner
+GenomicaMicrob/fasta_header_renamer	include	metadata indicates biological FASTA use	Script to rename the headers of a mutifasta file with the name of the file,  it also adds a consecutive number to each sequence header.		Shell	0.0	0.0	0.0	genomicamicrob/fasta_header_renamer
+GenomicaMicrob/fasta_renamer	include	metadata indicates biological FASTA use	Script to rename the headers of a multifasta file or files. A consecutive number will be added to each sequence header (>header_1, >header_2, etc.)		Shell	0.0	0.0	0.0	genomicamicrob/fasta_renamer
+Genomicus/fasta-to-fastq	include	metadata indicates biological FASTA use	Automatically exported from code.google.com/p/fasta-to-fastq		Perl	0.0	0.0	0.0	genomicus/fasta-to-fastq
+GeorgeClaudiOfficiel/HealthFasta	exclude	insufficient metadata to establish biological FASTA use	This repository contains the final project required for the completion of my Bachelor of Technology degree in Computer and Electronics Systems at MKU. The project focuses on developing a Sustainable Health Data Management System aimed at improving the collection, storage, and management of health records.		JavaScript	0.0	0.0	0.0	georgeclaudiofficiel/healthfasta
+ghisia/fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	ghisia/fasta
+giggu98/fasta_helper	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	giggu98/fasta_helper
+gilbert-hop/Hop-Fasta	exclude	insufficient metadata to establish biological FASTA use	"Puts a ""Quick Update"" button on the Template editor"		JavaScript	0.0	0.0	0.0	gilbert-hop/hop-fasta
+gitpan/Bio-ViennaNGS-Fasta	include	metadata indicates biological FASTA use	Read-only release history for Bio-ViennaNGS-Fasta		Perl	0.0	0.0	0.0	gitpan/bio-viennangs-fasta
+gitpan/Tie-File-AnyData-Bio-Fasta	include	metadata indicates biological FASTA use	Read-only release history for Tie-File-AnyData-Bio-Fasta		Perl	0.0	0.0	0.0	gitpan/tie-file-anydata-bio-fasta
+gk55gupta/Fasta_opticians	exclude	insufficient metadata to establish biological FASTA use	Front-end static html pages for Fasta opticians (Freelance Work)		HTML	0.0	0.0	0.0	gk55gupta/fasta_opticians
+gkanogiannis/CGH_VCF2Fasta	include	metadata indicates biological FASTA use	CGH_VCF2Fasta		Java	0.0	0.0	0.0	gkanogiannis/cgh_vcf2fasta
+GlaDos28/FASTA	exclude	metadata indicates FASTA algorithm/acronym rather than FASTA format use	FASTA algorithm written on Golang		Go	0.0	0.0	0.0	glados28/fasta
+glaunay/fasta-lib	include	metadata indicates biological FASTA use	TS/ES7 implementation of FASTA like sequence parser 		TypeScript	0.0	0.0	0.0	glaunay/fasta-lib
+gmarchandon/fasta-to-fastq	include	metadata indicates biological FASTA use	Automatically exported from code.google.com/p/fasta-to-fastq		Perl	0.0	0.0	0.0	gmarchandon/fasta-to-fastq
+gmerrigantu/fasta-compress	exclude	insufficient metadata to establish biological FASTA use			C	0.0	0.0	0.0	gmerrigantu/fasta-compress
+goeckslab/gbToFasta	include	repository name indicates FASTA conversion/handling			Python	0.0	0.0	0.0	goeckslab/gbtofasta
+gofRA/fasta-test-example	exclude	insufficient metadata to establish biological FASTA use			Java	0.0	0.0	0.0	gofra/fasta-test-example
+GoGoGosia/lab10-AnalizatorFASTA	include	metadata indicates biological FASTA use	Program do analizy plików .FASTA		C#	0.0	0.0	0.0	gogogosia/lab10-analizatorfasta
+good-lly/fasta-experiments	exclude	insufficient metadata to establish biological FASTA use			C	0.0	0.0	0.0	good-lly/fasta-experiments
+gpertea/cdbfasta	include	metadata indicates biological FASTA use	Constant DataBase tools for indexing and retrieving records from multi-FASTA or similarly structured files		C++	10.0	0.0	0.0	gpertea/cdbfasta
+Gramuk/fasta-eGCP-mCherry	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	gramuk/fasta-egcp-mcherry
+grandied/fasta_generator	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	grandied/fasta_generator
+GregorySchwartz/fasta	include	metadata indicates biological FASTA use	The Fasta type as used by my programs.		Haskell	6.0	0.0	0.0	gregoryschwartz/fasta
+GregorySchwartz/modify-fasta	include	metadata indicates biological FASTA use	Modify fasta (and CLIP) files in several ways.		Haskell	2.0	0.0	0.0	gregoryschwartz/modify-fasta
+GroupeInfo/FASTA	exclude	insufficient metadata to establish biological FASTA use			C++	0.0	0.0	0.0	groupeinfo/fasta
+guilhermeLoss/get_fasta_from_k2_out	exclude	insufficient metadata to establish biological FASTA use	backbone 01		Python	0.0	0.0	0.0	guilhermeloss/get_fasta_from_k2_out
+gwajnberg/fasta-to-fastq	include	metadata indicates biological FASTA use	Automatically exported from code.google.com/p/fasta-to-fastq			0.0	0.0	0.0	gwajnberg/fasta-to-fastq
+gwL955/fasta_split	include	repository name indicates FASTA sequence handling	将多个序列集合的fasta文件拆分为一个序列一个fasta文件		Perl	0.0	0.0	0.0	gwl955/fasta_split
+Habib-Ahmad/fasta-landing-page	exclude	insufficient metadata to establish biological FASTA use			JavaScript	0.0	0.0	0.0	habib-ahmad/fasta-landing-page
+Habib-Ahmad/fasta-pay-landing-page	exclude	insufficient metadata to establish biological FASTA use			JavaScript	0.0	0.0	0.0	habib-ahmad/fasta-pay-landing-page
+Health-Universe/PDBtoFASTA	include	metadata indicates biological FASTA use	Converts amino acid residues from PDB files into a FASTA string		Python	0.0	0.0	0.0	health-universe/pdbtofasta
+heg4ssan/FASTA-Evidencias	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	heg4ssan/fasta-evidencias
+hellozzzw/analysis_fasta	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	hellozzzw/analysis_fasta
+henrygit2001/Fasta	exclude	insufficient metadata to establish biological FASTA use			Shell	0.0	0.0	0.0	henrygit2001/fasta
+heykalachik/fasta-slicer	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	heykalachik/fasta-slicer
+Himaja-afk/multilinefasta_singlelinefasta	exclude	insufficient metadata to establish biological FASTA use	Conversion of multiline-FASTA to singleline-FASTA_Webserver		HTML	0.0	0.0	0.0	himaja-afk/multilinefasta_singlelinefasta
+hiromu/splitfasta	include	repository name indicates FASTA sequence handling	This script separates a fasta / qual file which is generated by split_libralies.py		Python	0.0	0.0	0.0	hiromu/splitfasta
+hitlxc/Fasta	include	metadata indicates biological FASTA use	基于Java的Fasta基因序列比对算法		Java	2.0	0.0	0.0	hitlxc/fasta
+HIVDiversity/expand-fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	hivdiversity/expand-fasta
+hkimlab-PE/fasta-to-fastq	include	metadata indicates biological FASTA use	Automatically exported from code.google.com/p/fasta-to-fastq		Perl	0.0	0.0	0.0	hkimlab-pe/fasta-to-fastq
+hlwhitehurst/fasta_manipulation	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	hlwhitehurst/fasta_manipulation
+holiday01/fasta-viewer	include	repository name indicates FASTA sequence handling			HTML	0.0	0.0	0.0	holiday01/fasta-viewer
+HounerX/Fasta_Splitter	include	metadata indicates biological FASTA use	Fasta_splitter	bioinformatics;fasta;fasta-format;fasta-sequences	Shell	0.0	0.0	0.0	hounerx/fasta_splitter
+huangqianfei0916/fasta2svm	include	metadata indicates biological FASTA use	A SVM classifier based on k-mer embedding		Python	1.0	0.0	0.0	huangqianfei0916/fasta2svm
+hurwitzlab/extract-fasta	include	metadata indicates biological FASTA use	Use bedtools to extract fasta that is annotated with a gff file		Shell	0.0	0.0	0.0	hurwitzlab/extract-fasta
+HYBleek/jQuery-fastq-fasta	include	metadata indicates biological FASTA use			C++	0.0	0.0	0.0	hybleek/jquery-fastq-fasta
+iab-bioinformatics/RefFasta	include	metadata indicates biological FASTA use				0.0	0.0	0.0	iab-bioinformatics/reffasta
+iamYustomwakifwamba/chatiFasta	exclude	insufficient metadata to establish biological FASTA use	whatsapp ChatBot		JavaScript	0.0	0.0	0.0	iamyustomwakifwamba/chatifasta
+ian-culleton/fasta-cli-builds	exclude	insufficient metadata to establish biological FASTA use			Shell	0.0	0.0	0.0	ian-culleton/fasta-cli-builds
+ianpartridge/swift-fasta-redux	exclude	insufficient metadata to establish biological FASTA use	The fasta-redux benchmark - implemented in Swift 		Swift	2.0	0.0	0.0	ianpartridge/swift-fasta-redux
+IARCbioinfo/FASTA-tricks	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	iarcbioinfo/fasta-tricks
+Ibadullah-dev/FASTa_API_xps	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	ibadullah-dev/fasta_api_xps
+IbrahimRabah/human.fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	ibrahimrabah/human.fasta
+IbrahimRabah/yeast.fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	ibrahimrabah/yeast.fasta
+iih20/gff2fasta	include	metadata indicates biological FASTA use	generates fasta when supplied with gff file, reference sequence file, and required features			0.0	0.0	0.0	iih20/gff2fasta
+ilana-caro/csv_to_fasta_gff3	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	ilana-caro/csv_to_fasta_gff3
+ileay29914/Fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	ileay29914/fasta
+ileay29914/fasta-generator	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	ileay29914/fasta-generator
+ileayiren/fasta-generator	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	ileayiren/fasta-generator
+imandmc/FASTA_project	exclude	insufficient metadata to establish biological FASTA use			C++	0.0	0.0	0.0	imandmc/fasta_project
+impostor692/fasta-editor	include	metadata indicates biological FASTA use	Fasta Editor, a Open Source Biology Sequence editor.	biology;javatokenapi	Java	1.0	0.0	0.0	impostor692/fasta-editor
+IMT-Atlantic/GetFasta	include	metadata indicates biological FASTA use	从染色质bed类似结构生成Fasta文件			0.0	0.0	0.0	imt-atlantic/getfasta
+incorruptam/bioinformatics-fasta-generator	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	incorruptam/bioinformatics-fasta-generator
+InesdeSantiago/splitFasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	inesdesantiago/splitfasta
+ingava/fasta	exclude	metadata indicates unrelated use of FASTA term/acronym	A React Native app for managing intermittent fasting	es6;javascript;mobile-app;mobile-development;react;react-native	JavaScript	0.0	0.0	0.0	ingava/fasta
+inoshree-2004/FASTA	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	inoshree-2004/fasta
+inrb-labgenpath/ConsensusFasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	inrb-labgenpath/consensusfasta
+Inria-Chile/oceania-fasta-query-client	exclude	insufficient metadata to establish biological FASTA use	Client for consuming fasta query services of OcéanIA Platform		Python	0.0	0.0	0.0	inria-chile/oceania-fasta-query-client
+ipb-halle/fasta-playground	include	metadata indicates biological FASTA use	Test project for sequence library searching	fasta;javaserverfaes;jsf	Java	0.0	1.0	0.0	ipb-halle/fasta-playground
+irembykbktsss/FASTA-Sekans-Dosyalar-	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	irembykbktsss/fasta-sekans-dosyalar-
+iroh19/fasta-cvd-visualizer	include	metadata indicates biological FASTA use	Renk görme eksikliği olan araştırmacılar için FASTA sekans görselleştirici	bioinformatics;colour-palette;colour-vision-deficiency;fasta;multi-sequences-alignment	JavaScript	0.0	0.0	0.0	iroh19/fasta-cvd-visualizer
+isaac-010/fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	isaac-010/fasta
+ish14903-rgb/FASTA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	ish14903-rgb/fasta
+ishmaelmudau/FASTA	exclude	insufficient metadata to establish biological FASTA use			JavaScript	0.0	0.0	0.0	ishmaelmudau/fasta
+ishmaelmudau/Fasta2	exclude	insufficient metadata to establish biological FASTA use			JavaScript	0.0	0.0	0.0	ishmaelmudau/fasta2
+IshnoorKaur/fasta	exclude	insufficient metadata to establish biological FASTA use			C	0.0	0.0	0.0	ishnoorkaur/fasta
+iskold/fasta-util	include	metadata indicates biological FASTA use	A bunch of semi-useful python scripts for dealing with fasta/fastq files.		Python	0.0	0.0	0.0	iskold/fasta-util
+islamfardin/fasta-write	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	islamfardin/fasta-write
+Istar-Eldritch/fasta-encoding-tests	exclude	insufficient metadata to establish biological FASTA use			Java	0.0	0.0	0.0	istar-eldritch/fasta-encoding-tests
+itanini/create_common_ancestor_fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	itanini/create_common_ancestor_fasta
+ItokawaK/ReheaderFasta	include	repository name indicates FASTA sequence handling	A graphical interface to concatenate fasta from multiple files and manipulate headers.		JavaScript	1.0	0.0	0.0	itokawak/reheaderfasta
+itrus/GWAS-fasta	exclude	insufficient metadata to establish biological FASTA use	R code for creating Manhattan plots for GWAS		R	3.0	0.0	0.0	itrus/gwas-fasta
+IvanTyulyandin/HMM_FASTA_Viterbi	exclude	insufficient metadata to establish biological FASTA use			C++	0.0	0.0	0.0	ivantyulyandin/hmm_fasta_viterbi
+J-E-J-S/gb2fasta	include	metadata indicates biological FASTA use	Convert GenBank Files to FASTA Without Leaving the Terminal.	bioinformatics;cli;synthetic-biology	Python	0.0	0.0	0.0	j-e-j-s/gb2fasta
+J-Igtm/https-raw.githubusercontent.com-username-repo-main-filename.fasta	include	metadata indicates biological FASTA use				0.0	0.0	0.0	j-igtm/https-raw.githubusercontent.com-username-repo-main-filename.fasta
+J-Igtm/https-raw.githubusercontent.com-username-repo-main-my_sequences.fasta	include	metadata indicates biological FASTA use				0.0	0.0	0.0	j-igtm/https-raw.githubusercontent.com-username-repo-main-my_sequences.fasta
+J-Igtm/My-_sequence_fasta	include	metadata indicates biological FASTA use				0.0	0.0	0.0	j-igtm/my-_sequence_fasta
+J-Igtm/my-fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	j-igtm/my-fasta
+J-Igtm/Raw-fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	j-igtm/raw-fasta
+j23414/fasta-cluster	include	metadata indicates biological FASTA use	A modular workflow for taking a set of sequences and clustering them into representative sequences		Nextflow	0.0	0.0	0.0	j23414/fasta-cluster
+jacazek/fasta_pytorch_utils	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	jacazek/fasta_pytorch_utils
+jacazek/fasta_utils	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	jacazek/fasta_utils
+jacazek/fasta_vocab_builder	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	jacazek/fasta_vocab_builder
+Jack-Coutts/fasta-extractor	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	jack-coutts/fasta-extractor
+jacksonmsele3-debug/DALALI-FASTA	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	jacksonmsele3-debug/dalali-fasta
+jacksonvo/The-FASTA-Problem	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	jacksonvo/the-fasta-problem
+jackstanek/FASTA-concatenator	include	metadata indicates biological FASTA use	Concatenates exons in tabular genetic data, and then spits fierce FASTA and tabular output.		Python	1.0	0.0	0.0	jackstanek/fasta-concatenator
+jagodazorza/Fasta	exclude	insufficient metadata to establish biological FASTA use			C#	0.0	0.0	0.0	jagodazorza/fasta
+Jailsonrs/fasta	exclude	insufficient metadata to establish biological FASTA use	:)		Python	1.0	0.0	0.0	jailsonrs/fasta
+jangjongha/fasta_to_txt.py	include	repository name indicates FASTA conversion/handling	git@github.com:seegenelab/SGBERT.git		Python	0.0	0.0	0.0	jangjongha/fasta_to_txt.py
+jarethj/fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	jarethj/fasta
+Jasmine2814/Bioinfo_FASTA_Analysis	include	metadata indicates biological FASTA use	Demo FASTA analysis project for bioinformatics learning		Python	0.0	0.0	0.0	jasmine2814/bioinfo_fasta_analysis
+jason-weirather/fasta.io	exclude	insufficient metadata to establish biological FASTA use	A static blog from a person.		HTML	0.0	0.0	0.0	jason-weirather/fasta.io
+Jasrajveer/FASTA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	jasrajveer/fasta
+javitmx/fasta-api	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	javitmx/fasta-api
+jaxtoliver/FASTA-sequencing-analysis	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	jaxtoliver/fasta-sequencing-analysis
+jeanmelita-pereira/FASTA-Analyzer	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	jeanmelita-pereira/fasta-analyzer
+Jeffershonq/Computational-Biology-Fasta-Manipulation	include	metadata indicates biological FASTA use			Jupyter Notebook	0.0	0.0	0.0	jeffershonq/computational-biology-fasta-manipulation
+jelmerp/itsx-fasta-fastq	include	metadata indicates biological FASTA use			R	0.0	0.0	0.0	jelmerp/itsx-fasta-fastq
+Jeremias-Brand/annotate_fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	jeremias-brand/annotate_fasta
+jfbeltran/quick_fasta_stuff	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	jfbeltran/quick_fasta_stuff
+jgamache014/python-fasta	exclude	insufficient metadata to establish biological FASTA use	SciComp		Python	0.0	0.0	0.0	jgamache014/python-fasta
+jgrimplet/fasta-utils	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	jgrimplet/fasta-utils
+jguhlin/fasta-shuffler	exclude	insufficient metadata to establish biological FASTA use			Rust	0.0	0.0	0.0	jguhlin/fasta-shuffler
+jhm-ciberman/assambly-fasta	exclude	insufficient metadata to establish biological FASTA use	"Repo with exercises from ""Arquitectura de las computadoras"", from FASTA University, Mar del Plata, Argentina. "		Assembly	0.0	0.0	0.0	jhm-ciberman/assambly-fasta
+jhm-ciberman/datamart-fasta	include	metadata indicates biological FASTA use	DataMart de prueba hecho para la Universidad Fasta, Mar del Plata, Argentina. 		TSQL	0.0	0.0	0.0	jhm-ciberman/datamart-fasta
+jhm-ciberman/fasta-compiler	exclude	insufficient metadata to establish biological FASTA use	Toy compiler for the Compilers assignment in FASTA University. 		Java	1.0	0.0	0.0	jhm-ciberman/fasta-compiler
+jhm-ciberman/feature-extraction-fasta	exclude	metadata indicates FASTA algorithm/acronym rather than FASTA format use	This is a simple example of a feature extraction algorithm for natural language processing made for  the Decision Support Systems Assignment of FASTA University.		C#	0.0	0.0	0.0	jhm-ciberman/feature-extraction-fasta
+jhm-ciberman/progra2-fasta	exclude	insufficient metadata to establish biological FASTA use	Programación 2 en FASTA (Ingenieria informática) 		Java	0.0	0.0	0.0	jhm-ciberman/progra2-fasta
+jhonemanriques-cloud/Procesador-de-Secuencias-FASTA	include	metadata indicates biological FASTA use	Herramienta de escritorio en Java para procesar secuencias FASTA usando Arquitectura Onion		Java	0.0	0.0	0.0	jhonemanriques-cloud/procesador-de-secuencias-fasta
+jhumkhav/fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	jhumkhav/fasta
+JIM90mdp/Fasta-2024	exclude	insufficient metadata to establish biological FASTA use			TypeScript	0.0	0.0	0.0	jim90mdp/fasta-2024
+JinfengChen/vcf-tab-to-fasta	include	metadata indicates biological FASTA use	Automatically exported from code.google.com/p/vcf-tab-to-fasta		Perl	4.0	0.0	0.0	jinfengchen/vcf-tab-to-fasta
+Jingmingxia/Get-targetd-sequence-in-fasta	include	metadata indicates biological FASTA use			Perl	0.0	0.0	0.0	jingmingxia/get-targetd-sequence-in-fasta
+JinyuanSun/get-sequence-fasta-by-UniProt-ID	include	metadata indicates biological FASTA use			Python	4.0	0.0	0.0	jinyuansun/get-sequence-fasta-by-uniprot-id
+jjfid/FASTA	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	jjfid/fasta
+jjinkong-ABLe/fasta_fastq_summary	include	metadata indicates biological FASTA use	FASTA/FASTQ 파일의 서열 수, 길이, GC%, 평균 quality를 요약합니다.		Python	0.0	0.0	0.0	jjinkong-able/fasta_fastq_summary
+jkaralius/fasta2selfdot	include	repository name indicates FASTA conversion/handling			Perl	0.0	0.0	0.0	jkaralius/fasta2selfdot
+jmtusar/hash_table_in_FASTA	exclude	insufficient metadata to establish biological FASTA use				1.0	0.0	0.0	jmtusar/hash_table_in_fasta
+jnguyen1991/Fasta-Database-Search	include	metadata indicates biological FASTA use	Web page for entering in fasta entries for a database based on properties of the sequence.		Python	0.0	0.0	0.0	jnguyen1991/fasta-database-search
+joao-ribeirooo/Fasta-to-Nexus-Converter	include	metadata indicates biological FASTA use	This repository contains the 2nd homework of the subject, analise de sequencias biologicas, aka ASB 		Python	1.0	0.0	0.0	joao-ribeirooo/fasta-to-nexus-converter
+JoaoLopez/fasta-with-s	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	joaolopez/fasta-with-s
+JohanImbolBioDev/Descargar-secuencias-FASTA	include	metadata indicates biological FASTA use	Este código permite descargar de manera automatizada secuencias en formato fasta de un gen específico. Lo que realiza el código es descargar el primer resultado en GenBank de buscar: organismo AND gen.		Jupyter Notebook	0.0	0.0	0.0	johanimbolbiodev/descargar-secuencias-fasta
+johannes-programming/fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	johannes-programming/fasta
+johngarchie/MinimalFASTA	include	metadata indicates biological FASTA use	A simple Perl module for reading and writing FASTA data		Perl	0.0	0.0	0.0	johngarchie/minimalfasta
+JohnMart/fasta2fold	include	repository name indicates FASTA conversion/handling			Python	0.0	0.0	0.0	johnmart/fasta2fold
+Jojo-GitH2/Perl-Project-Fasta-Database	exclude	insufficient metadata to establish biological FASTA use			Perl	0.0	0.0	0.0	jojo-gith2/perl-project-fasta-database
+jon-keatley-folio/wasm-fasta	include	metadata indicates biological FASTA use	A wasm wrapper for noodles providing fasta features		Rust	0.0	0.0	0.0	jon-keatley-folio/wasm-fasta
+jonniechan/fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	jonniechan/fasta
+Josefinafalco/fasta-stats	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	josefinafalco/fasta-stats
+jovillarrealm/count-fasta-plots	include	repository name indicates FASTA sequence handling			Rust	0.0	0.0	0.0	jovillarrealm/count-fasta-plots
+js2839/Fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	js2839/fasta
+jspaezp/proteometools_fasta	include	metadata indicates biological FASTA use			Roff	0.0	0.0	0.0	jspaezp/proteometools_fasta
+jstreich/fasta2fastq	include	metadata indicates biological FASTA use	A set of commands to create a fastq file from a reference chromosome		Shell	0.0	0.0	0.0	jstreich/fasta2fastq
+jtprince/ms-fasta	include	metadata indicates biological FASTA use	mspire library for working with fasta and related files		Ruby	2.0	0.0	0.0	jtprince/ms-fasta
+juanterraf/comunidad-fasta	exclude	insufficient metadata to establish biological FASTA use	Directorio comunitario de emprendimientos, servicios y oficios de las familias del Colegio Boisdron (Tucumán, Argentina). Next.js 16 + Postgres + Drizzle.		TypeScript	0.0	0.0	0.0	juanterraf/comunidad-fasta
+JucaGDL/Analizador-FASTA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	jucagdl/analizador-fasta
+Jude-Martin/mutation_generator_fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	jude-martin/mutation_generator_fasta
+jujluila/analizator_fasta_lab10_p_wizualne	exclude	insufficient metadata to establish biological FASTA use			C#	0.0	0.0	0.0	jujluila/analizator_fasta_lab10_p_wizualne
+JulesGaro/GenBank2Fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	julesgaro/genbank2fasta
+junjie1999/Fasta_To_Excel	include	repository name indicates FASTA conversion/handling			Jupyter Notebook	0.0	0.0	0.0	junjie1999/fasta_to_excel
+jupyter/jupyterlab-fasta	include	metadata indicates biological FASTA use	DEPRECATED: Moved to https://github.com/jupyterlab/jupyter-renderers. A JupyterLab Fasta viewer		TypeScript	5.0	1.0	0.0	jupyter/jupyterlab-fasta
+jvelez82/Fasta-app	exclude	insufficient metadata to establish biological FASTA use	Charla con nuestro dossier institucional		Python	0.0	0.0	0.0	jvelez82/fasta-app
+jwestrob/Fasta-QC	include	metadata indicates biological FASTA use	Basic functionality to edit low-quality MSAs for phylogenetic analysis; deprecated in favor of vcf2aln		Python	0.0	0.0	0.0	jwestrob/fasta-qc
+jyvasu/FastA	exclude	insufficient metadata to establish biological FASTA use			Jupyter Notebook	0.0	0.0	0.0	jyvasu/fasta
+k-antonets/gff2fasta	include	metadata indicates biological FASTA use			Shell	0.0	0.0	0.0	k-antonets/gff2fasta
+k-hench/gapped_maf2fasta	include	repository name indicates FASTA sequence handling	Selection of python scripts to handle maf >>> fasta conversion		Python	0.0	0.0	0.0	k-hench/gapped_maf2fasta
+KadenCrabb/HHV6B_genes_fasta	include	metadata indicates biological FASTA use	Fasta of genes			0.0	0.0	0.0	kadencrabb/hhv6b_genes_fasta
+KadirBarquet/secuencias_adn_fasta_agro	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	kadirbarquet/secuencias_adn_fasta_agro
+kaito3636/fasta-site	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	kaito3636/fasta-site
+Kakashi-sensei/BCB546X-Fall2019_fasta-furious	exclude	insufficient metadata to establish biological FASTA use			Jupyter Notebook	0.0	0.0	0.0	kakashi-sensei/bcb546x-fall2019_fasta-furious
+kakus/fasta-algorithm	exclude	metadata indicates FASTA algorithm/acronym rather than FASTA format use	A fasta algorithm implementation for university course		JavaScript	2.0	0.0	0.0	kakus/fasta-algorithm
+Kalbfleisch-UK-Lab/Modify_Fasta_Names	exclude	insufficient metadata to establish biological FASTA use			Shell	0.0	0.0	0.0	kalbfleisch-uk-lab/modify_fasta_names
+KamiRab/ProjectFasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	kamirab/projectfasta
+kangaroo0794/fasta-extraction	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	kangaroo0794/fasta-extraction
+kanishthakashiv-dotcom/FASTA	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	kanishthakashiv-dotcom/fasta
+kanmanibharathi/FASTA_Q-Xtract	include	metadata indicates biological FASTA use	A high-performance, cross-platform FASTA/Q sequence extractor with a modern GUI. Built with PyQt6 to handle large-scale genomic data extraction using CSV target lists.		Python	0.0	0.0	0.0	kanmanibharathi/fasta_q-xtract
+karen9/GenBank-to-Fasta	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	karen9/genbank-to-fasta
+karo-bioscience/python-fasta-name-changer	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	karo-bioscience/python-fasta-name-changer
+katanaBeam/Fasta-to-Nexus	include	repository name indicates FASTA conversion/handling	A simple way to make Fasta into Nexus		Python	0.0	0.0	0.0	katanabeam/fasta-to-nexus
+katarzynanosal6/analizator-FASTA	exclude	insufficient metadata to establish biological FASTA use			C#	0.0	0.0	0.0	katarzynanosal6/analizator-fasta
+KauffmanLab/maniFasta	include	metadata indicates biological FASTA use	Build your proteomics reference database with maniFasta		Python	0.0	0.0	0.0	kauffmanlab/manifasta
+kaw56/Fasta_database	include	metadata indicates biological FASTA use	create a fasta database from a list of annotations consisting of sequence coordinates and a name		Perl	0.0	0.0	0.0	kaw56/fasta_database
+kawhelan/fasta-kmer-counter	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	kawhelan/fasta-kmer-counter
+KazukiNakamae/shuffle_fasta_di	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	kazukinakamae/shuffle_fasta_di
+kbeigel/edit_FASTA_headers	include	metadata indicates biological FASTA use	Python script to find & replace specified strings from FASTA header lines		Python	0.0	0.0	0.0	kbeigel/edit_fasta_headers
+kelseyalesescu/fasta_seq_count.sh	include	repository name indicates FASTA sequence handling			Shell	0.0	0.0	0.0	kelseyalesescu/fasta_seq_count.sh
+kenOfYugen/fasta-native-cpp	exclude	insufficient metadata to establish biological FASTA use			C++	0.0	0.0	0.0	kenofyugen/fasta-native-cpp
+kenOfYugen/fasta-vanilla-node	exclude	insufficient metadata to establish biological FASTA use			JavaScript	0.0	0.0	0.0	kenofyugen/fasta-vanilla-node
+KenSaville/Get_GB_GFF_FASTA	include	metadata indicates biological FASTA use	Latch Bio workflow:  Enter a genbank ACC number, generate GB, GFF, Fasta for easy download 		Python	0.0	0.0	0.0	kensaville/get_gb_gff_fasta
+KentaroPigot/pizza-fasta	exclude	insufficient metadata to establish biological FASTA use			TypeScript	0.0	0.0	0.0	kentaropigot/pizza-fasta
+kevinmcain/fasta-to-fastq	include	metadata indicates biological FASTA use	Automatically exported from code.google.com/p/fasta-to-fastq		Perl	0.0	0.0	0.0	kevinmcain/fasta-to-fastq
+khyeonm/fasta-viewer	include	repository name indicates FASTA sequence handling	AutoPipe plugin: fasta-viewer		JavaScript	0.0	0.0	0.0	khyeonm/fasta-viewer
+KimBjork/microtest3-fasta	exclude	insufficient metadata to establish biological FASTA use			Kotlin	0.0	0.0	0.0	kimbjork/microtest3-fasta
+kingdavid72/Fasta36	exclude	insufficient metadata to establish biological FASTA use			C	0.0	0.0	0.0	kingdavid72/fasta36
+KirkinEgor/FASTA-parsing-and-processing	include	repository name indicates FASTA sequence handling	Study project for RSMU informatics course		HTML	0.0	0.0	0.0	kirkinegor/fasta-parsing-and-processing
+kirtichhatlani/All-to-fasta	include	repository name indicates FASTA conversion/handling			Python	0.0	0.0	0.0	kirtichhatlani/all-to-fasta
+Kivaru/nyumba_fasta_react_native	exclude	insufficient metadata to establish biological FASTA use			TypeScript	0.0	0.0	0.0	kivaru/nyumba_fasta_react_native
+kjuliusberg/ExpFys2---Fasta-tillst-ndets-fysik	exclude	insufficient metadata to establish biological FASTA use	Repo för fildelning i delmoment i kursen Experimentell fysik 2 -Fasta tillståndets fysik		TeX	0.0	0.0	0.0	kjuliusberg/expfys2---fasta-tillst-ndets-fysik
+kkaminska45/LAB10-FASTA	exclude	insufficient metadata to establish biological FASTA use			C#	0.0	0.0	0.0	kkaminska45/lab10-fasta
+KKMGXMTX/fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	kkmgxmtx/fasta
+kn220324/clean-fasta-seq	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	kn220324/clean-fasta-seq
+Komceks/Simple-miXML-converter-to-CSV-FASTA	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	komceks/simple-mixml-converter-to-csv-fasta
+korea3500/Fasta_x-processing	exclude	insufficient metadata to establish biological FASTA use			Jupyter Notebook	0.0	0.0	0.0	korea3500/fasta_x-processing
+kosy990000/FASTA-Pipeline	exclude	insufficient metadata to establish biological FASTA use			Shell	0.0	0.0	0.0	kosy990000/fasta-pipeline
+kpdrees/fasta2reads	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	kpdrees/fasta2reads
+kraleo/language-fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	kraleo/language-fasta
+krepsen/parsnp2fasta	include	repository name indicates FASTA conversion/handling	parsnp2fasta		Shell	0.0	0.0	0.0	krepsen/parsnp2fasta
+KShubhransh/FASTA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	kshubhransh/fasta
+kukavigan/pasta-fasta-website	exclude	insufficient metadata to establish biological FASTA use			TypeScript	0.0	0.0	0.0	kukavigan/pasta-fasta-website
+KunArthurXiang/python-fasta	exclude	insufficient metadata to establish biological FASTA use	repo for scicomp workshop		Python	0.0	0.0	0.0	kunarthurxiang/python-fasta
+kurzart25/hw4_fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	kurzart25/hw4_fasta
+kyberdog/repo-for-seq-and-fasta	include	repository name indicates FASTA sequence handling			Python	3.0	0.0	0.0	kyberdog/repo-for-seq-and-fasta
+kylebittinger/okfasta	include	metadata indicates biological FASTA use	Completely superfluous FASTA utility programs in Python		Python	0.0	0.0	0.0	kylebittinger/okfasta
+labsquare/CuteFasta	include	metadata indicates biological FASTA use	fasta viewer		C++	1.0	0.0	0.0	labsquare/cutefasta
+lakhujanivijay/Playing-with-fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	lakhujanivijay/playing-with-fasta
+lanadelrea/fastq2bam2fasta	include	metadata indicates biological FASTA use	Pipeline to convert fastq to bam to fasta		Nextflow	0.0	0.0	0.0	lanadelrea/fastq2bam2fasta
+land1557/FASTA-to-RSRS-with-Visualizer	include	metadata indicates biological FASTA use	A simple tool to get the mtDNA RSRS markers and visualize them in mtDNA Map.			0.0	0.0	0.0	land1557/fasta-to-rsrs-with-visualizer
+laninsky/processing_fastsimcoal_to_fasta	include	repository name indicates FASTA conversion/handling	Taking the concatenated arlequin file from fastsimcoal and splitting by locus		R	0.0	0.0	0.0	laninsky/processing_fastsimcoal_to_fasta
+laurenfields/Guided-FASTA-Filtering-Metagenomics	include	metadata indicates biological FASTA use			JavaScript	0.0	0.0	0.0	laurenfields/guided-fasta-filtering-metagenomics
+LaurieLecomte/fasta_dev1	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	laurielecomte/fasta_dev1
+LCrossman/extract_fasta	include	repository name indicates FASTA sequence handling	test-fasta-extract		Python	0.0	0.0	0.0	lcrossman/extract_fasta
+Le-seul-1/Fasta	exclude	insufficient metadata to establish biological FASTA use			TypeScript	0.0	0.0	0.0	le-seul-1/fasta
+lec320fd90d/FastA	exclude	insufficient metadata to establish biological FASTA use	Decentralized, event-driven microservice orchestrator enabling high-performance, scalable API gateways with adaptive security authentication hubs.		Rust	11.0	0.0	0.0	lec320fd90d/fasta
+legend1987zz/zz-fasta-api-python	exclude	insufficient metadata to establish biological FASTA use	测试项目			0.0	0.0	0.0	legend1987zz/zz-fasta-api-python
+lennifernandez-alt/egfr-fasta-pipeline	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	lennifernandez-alt/egfr-fasta-pipeline
+lennifernandez-alt/lennifernandez-alt-TGBF1_fasta_pipeline2	include	metadata indicates biological FASTA use	ignorar (lennifernandez-alt/TGBF1_fasta_pipeline)		Python	0.0	0.0	0.0	lennifernandez-alt/lennifernandez-alt-tgbf1_fasta_pipeline2
+LFelipe-B/Sequence_fasta_features_scripts_2020	include	metadata indicates biological FASTA use	Here you can find scripts to calculate sequence features and composition such as length, GC, GC3		Python	0.0	0.0	0.0	lfelipe-b/sequence_fasta_features_scripts_2020
+liaoj/fasta-data	include	metadata indicates biological FASTA use	Perl scripts for importing FASTA data and calculating simple statistics		Perl	0.0	0.0	0.0	liaoj/fasta-data
+liaoj/fasta-data-python	exclude	insufficient metadata to establish biological FASTA use	This repository is created for the fasta-data solution with python.			0.0	0.0	0.0	liaoj/fasta-data-python
+lightaqn/reactnative-login-fasta	exclude	insufficient metadata to establish biological FASTA use			JavaScript	0.0	0.0	0.0	lightaqn/reactnative-login-fasta
+lindberg-m/color_fasta	exclude	insufficient metadata to establish biological FASTA use			C	0.0	0.0	0.0	lindberg-m/color_fasta
+lindberg-m/fasta_colorize	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	lindberg-m/fasta_colorize
+linsalrob/py_fasta_validator	include	metadata indicates biological FASTA use	A Python extension of the fasta validator		Python	9.0	0.0	0.0	linsalrob/py_fasta_validator
+LinTzuTang/AMP_fasta_analysis	include	repository name indicates FASTA sequence handling			Jupyter Notebook	0.0	0.0	0.0	lintzutang/amp_fasta_analysis
+Lio-sys/fasta-reina-de-la-paz	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	lio-sys/fasta-reina-de-la-paz
+lisanhu/fasta-fastq-dump	include	metadata indicates biological FASTA use	Randomly generating fasta and fastq files for sequencers.		C++	0.0	0.0	0.0	lisanhu/fasta-fastq-dump
+liuh321/ex_gene_region_2_fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	liuh321/ex_gene_region_2_fasta
+liuiscoding/python_dealwith_fasta	include	metadata indicates biological FASTA use	python处理fasta文件		Python	1.0	0.0	0.0	liuiscoding/python_dealwith_fasta
+liuyuan-cisd/fasta_GCN	include	repository name indicates FASTA sequence handling	使用图卷积对生物序列进行分类		Python	7.0	0.0	0.0	liuyuan-cisd/fasta_gcn
+livemzigo-sys/Dalali-Fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	livemzigo-sys/dalali-fasta
+lizairemickelson05-bit/fasta	exclude	insufficient metadata to establish biological FASTA use	video			0.0	0.0	0.0	lizairemickelson05-bit/fasta
+LizBioEng/fasta-analyzer	include	metadata indicates biological FASTA use	Simple FASTA analyzer in Python for bioinformatics beginners		Python	0.0	0.0	0.0	lizbioeng/fasta-analyzer
+lizmat/Fasta	include	metadata indicates biological FASTA use	Fasta - Library of FASTA related functionality		Raku	3.0	0.0	0.0	lizmat/fasta
+lkayarana/FASTA-heuristic-aligner	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	lkayarana/fasta-heuristic-aligner
+Loveuse/sequentialfasta	exclude	metadata indicates FASTA algorithm/acronym rather than FASTA format use	A FASTA algorithm launcher written in Java		Java	0.0	0.0	0.0	loveuse/sequentialfasta
+lstevens17/busco2fasta	include	repository name indicates FASTA conversion/handling			Python	3.0	0.0	0.0	lstevens17/busco2fasta
+Lubov-Kost/fasta-project	include	metadata indicates biological FASTA use	Работа с fasta файлами		Python	0.0	0.0	0.0	lubov-kost/fasta-project
+luigi-ave/FASTQ-to-FASTA	include	metadata indicates biological FASTA use	Convertitore da FASTQ a FASTA		Jupyter Notebook	0.0	0.0	0.0	luigi-ave/fastq-to-fasta
+LuisGatsby/split_fasta_signalp.py-faa-	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	luisgatsby/split_fasta_signalp.py-faa-
+luizirber/bam2fasta	include	metadata indicates biological FASTA use	Package to convert bam files to fasta per single cell barcode			0.0	0.0	0.0	luizirber/bam2fasta
+lukekoch/linearize_fasta	exclude	insufficient metadata to establish biological FASTA use			Rust	0.0	0.0	0.0	lukekoch/linearize_fasta
+LVRS/fasta_bases_counter	include	repository name indicates FASTA sequence handling	Counts how many times each base appear on every position in a gene		Python	0.0	0.0	0.0	lvrs/fasta_bases_counter
+lycantrope/fasta_filter	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	lycantrope/fasta_filter
+macbook19899-ai/Fasta-emballage-metallique-algerien	exclude	insufficient metadata to establish biological FASTA use	Entreprise d'emballage métallique Algérienne		HTML	1.0	0.0	0.0	macbook19899-ai/fasta-emballage-metallique-algerien
+machine-moon/fasta_cleaner	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	machine-moon/fasta_cleaner
+macperez/fasta	exclude	insufficient metadata to establish biological FASTA use	Examples of Go coding		Go	0.0	0.0	0.0	macperez/fasta
+MadSmit/fasta_seq_count.sh	include	repository name indicates FASTA sequence handling	Assignment 2		Shell	0.0	0.0	0.0	madsmit/fasta_seq_count.sh
+Mael-el/mon-site-fasta	exclude	insufficient metadata to establish biological FASTA use	Site web de présentation de la filière MIA à la FAST		HTML	0.0	0.0	0.0	mael-el/mon-site-fasta
+mafercamposv/analizador_fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	mafercamposv/analizador_fasta
+Magn3zy/FASTA-counter	include	metadata indicates biological FASTA use	UI for counting bases, used for GC content of PCR amplicons analysis.		Python	0.0	0.0	0.0	magn3zy/fasta-counter
+Magnushhoie/fasta_index_finder	include	metadata indicates biological FASTA use	Find FASTA indices for header and sequence start/ends		Python	1.0	0.0	0.0	magnushhoie/fasta_index_finder
+Magnushhoie/fasta_scripts	include	repository name indicates FASTA sequence handling	Collection of FASTA processing scripts		Jupyter Notebook	1.0	0.0	0.0	magnushhoie/fasta_scripts
+magorbe/java-fasta-to-two-bit-converter	include	repository name indicates FASTA sequence handling	Automatically exported from code.google.com/p/java-fasta-to-two-bit-converter		Java	0.0	0.0	0.0	magorbe/java-fasta-to-two-bit-converter
+Mahbub511/FASTA-to-CSV-	include	repository name indicates FASTA sequence handling			Jupyter Notebook	0.0	0.0	0.0	mahbub511/fasta-to-csv-
+Mahbub511/Fasta-to-CSV-converter	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	mahbub511/fasta-to-csv-converter
+Mahdi-Maaref/FastA	exclude	insufficient metadata to establish biological FASTA use	Only 4 click to black area that not intersted --- auto save --auto next	labeling-tool	Python	0.0	0.0	0.0	mahdi-maaref/fasta
+majeedbioinfo/fastq-to-fasta	include	metadata indicates biological FASTA use				0.0	0.0	0.0	majeedbioinfo/fastq-to-fasta
+majidbahader86/fasta_analyser	include	repository name indicates FASTA sequence handling			Python	1.0	0.0	0.0	majidbahader86/fasta_analyser
+mandosoft/fasta2csv	include	metadata indicates biological FASTA use	Simple Rust program to convert Fasta MSA's to CSV files		Rust	0.0	0.0	0.0	mandosoft/fasta2csv
+manologuevara2013-png/mathfun-fasta	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	manologuevara2013-png/mathfun-fasta
+Manuel-Brrn/sequences_extraction_fasta	include	metadata indicates biological FASTA use			Shell	0.0	0.0	0.0	manuel-brrn/sequences_extraction_fasta
+marcobusalu/mtingo-fasta	exclude	insufficient metadata to establish biological FASTA use			Blade	0.0	0.0	0.0	marcobusalu/mtingo-fasta
+mariapmpb/entrez-fasta-retriever	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	mariapmpb/entrez-fasta-retriever
+MarieLataretu/rearrangeFasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	marielataretu/rearrangefasta
+marimooo/fasta-rename-in-order	include	metadata indicates biological FASTA use	A python code that rename FASTA headers in specific order		Python	0.0	0.0	0.0	marimooo/fasta-rename-in-order
+marina123123/fasta	exclude	insufficient metadata to establish biological FASTA use			Java	0.0	0.0	0.0	marina123123/fasta
+mariosebastiancarrasco-lab/380016400_col-fasta-san-a-magno-o-p_rio-blanco	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	mariosebastiancarrasco-lab/380016400_col-fasta-san-a-magno-o-p_rio-blanco
+mariosebastiancarrasco-lab/380016400_col-fasta-san-a-magno_rio-blanco	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	mariosebastiancarrasco-lab/380016400_col-fasta-san-a-magno_rio-blanco
+mariosebastiancarrasco-lab/380016400_fasta_rio-blanco	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	mariosebastiancarrasco-lab/380016400_fasta_rio-blanco
+mariosebastiancarrasco-lab/380040900_col-fasta-jmpaz_lgsm	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	mariosebastiancarrasco-lab/380040900_col-fasta-jmpaz_lgsm
+mariosebastiancarrasco-lab/380040901_col-fasta-ing-j-m-paz_lgsm	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	mariosebastiancarrasco-lab/380040901_col-fasta-ing-j-m-paz_lgsm
+mariosebastiancarrasco-lab/380040901_col-fasta-ing-jose-m-paz_lgsm	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	mariosebastiancarrasco-lab/380040901_col-fasta-ing-jose-m-paz_lgsm
+mariosebastiancarrasco-lab/380079400_ies-8-sagrado-corazon-fasta_rio-blanco	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	mariosebastiancarrasco-lab/380079400_ies-8-sagrado-corazon-fasta_rio-blanco
+Mart12n/Fasta_Bases_Count	include	repository name indicates FASTA sequence handling			Jupyter Notebook	0.0	0.0	0.0	mart12n/fasta_bases_count
+matheusampaio10/athanatos-fasta	exclude	insufficient metadata to establish biological FASTA use	athanatos-fasta			0.0	0.0	0.0	matheusampaio10/athanatos-fasta
+mathiasverbeke0/stepwise-multi-fasta-to-array	include	metadata indicates biological FASTA use			HTML	0.0	0.0	0.0	mathiasverbeke0/stepwise-multi-fasta-to-array
+MatteoLacki/fasta_ops	include	metadata indicates biological FASTA use	Simple operations on fasta objects.		Python	0.0	0.0	0.0	matteolacki/fasta_ops
+Matthew-Mosior/fasta-region-inspector	include	metadata indicates biological FASTA use	A bioinformatics tool for analyzing somatic hypermutation	bioinformatics;biomart;csv-writer;effect-system;effectful;haskell;knuth-morris-pratt;linear-types;multithreading;sbv;smt-solver;somatic-hypermutation;xml-generator;yaml-configuration	Haskell	19.0	0.0	0.0	matthew-mosior/fasta-region-inspector
+MatthewCallis/Fasta	exclude	insufficient metadata to establish biological FASTA use	ExpressionEngine extension for rapid template development with AJAX template saving.		PHP	6.0	0.0	0.0	matthewcallis/fasta
+mattmccormick/tofasta	include	metadata indicates biological FASTA use	Convert pandas DataFrames and CSV files to FASTA, with validation that refuses to write malformed output.		Python	2.0	0.0	0.0	mattmccormick/tofasta
+maxidev-acc/fasta	exclude	insufficient metadata to establish biological FASTA use			Makefile	0.0	0.0	0.0	maxidev-acc/fasta
+MaxiLemus/Fasta	exclude	insufficient metadata to establish biological FASTA use	pff		Python	0.0	0.0	0.0	maxilemus/fasta
+Maxim-Karpov/Fast_FASTA-FASTQ_trimmer	include	metadata indicates biological FASTA use	Simple FASTA/FASTQ trimmer in C++.		C++	0.0	0.0	0.0	maxim-karpov/fast_fasta-fastq_trimmer
+Maxim-Karpov/FASTA-FASTQ_rename	include	metadata indicates biological FASTA use	Rename FASTA/FASTQ headers with sequential numbers.		C++	0.0	0.0	0.0	maxim-karpov/fasta-fastq_rename
+maxim-uryasev/fasta_project	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	maxim-uryasev/fasta_project
+maxmalysh/fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	maxmalysh/fasta
+mbuyukyoruk/fasta_order_by_len	include	metadata indicates biological FASTA use	This script is developed to order sequences in a multifasta file by the length of sequences.		Python	0.0	0.0	0.0	mbuyukyoruk/fasta_order_by_len
+mbuyukyoruk/fasta_splitter_by_taxa	include	metadata indicates biological FASTA use	This script is developed to split sequences based on taxonomy information that is provided separately.		Python	0.0	0.0	0.0	mbuyukyoruk/fasta_splitter_by_taxa
+mbuyukyoruk/gb2fasta	include	repository name indicates FASTA conversion/handling	This script is developed to convert genbank files to fasta.		Python	0.0	0.0	0.0	mbuyukyoruk/gb2fasta
+mbuyukyoruk/split_fasta	include	metadata indicates biological FASTA use	This script is developed to split large multifasta file into smaller files for easy manipulation.		Python	0.0	0.0	0.0	mbuyukyoruk/split_fasta
+mclaughlinfernandeez/Fasta	include	metadata indicates biological FASTA use	Convert csv to fasta		TypeScript	0.0	0.0	0.0	mclaughlinfernandeez/fasta
+mcostama25/FASTA_MapReduce	exclude	insufficient metadata to establish biological FASTA use	Treball Final CNVR ZooKeeper		Java	0.0	0.0	0.0	mcostama25/fasta_mapreduce
+MdKausarali-143/fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	mdkausarali-143/fasta
+MehrnoushF/fasta_identity_project	include	metadata indicates biological FASTA use	Bioinformatics Programming : FASTA k-mer identity analysis		Python	0.0	0.0	0.0	mehrnoushf/fasta_identity_project
+Mengli123-design/Select_gene_from_FASTA_by-GeneID	include	repository name indicates FASTA sequence handling	select seq  from fa file based on seq ID		Python	0.0	0.0	0.0	mengli123-design/select_gene_from_fasta_by-geneid
+Mer-SciCode/FASTA-automation	include	metadata indicates biological FASTA use	Python pipeline to retrieve promoter sequences from Ensembl REST API and perform motif discovery using MEME Suite.		Python	0.0	0.0	0.0	mer-scicode/fasta-automation
+MeryemOrhan/Ex9-FASTA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	meryemorhan/ex9-fasta
+mewmew/fasta-sublime	include	metadata indicates biological FASTA use	FASTA syntax highlighting for Sublime Text.			0.0	0.0	0.0	mewmew/fasta-sublime
+mgaurlab/pdb2fasta	include	repository name indicates FASTA sequence handling	Rust CLI tool to convert PDB structures to FASTA		Rust	0.0	0.0	0.0	mgaurlab/pdb2fasta
+michaelk10452/XLS-2-FASTA	exclude	insufficient metadata to establish biological FASTA use			TypeScript	0.0	0.0	0.0	michaelk10452/xls-2-fasta
+michele-milesi/convertitore-da-fastq-a-fasta	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	michele-milesi/convertitore-da-fastq-a-fasta
+microbe777/fasta2six_frames	include	repository name indicates FASTA conversion/handling				0.0	0.0	0.0	microbe777/fasta2six_frames
+MiguelCos/FASTA_processing	exclude	insufficient metadata to establish biological FASTA use			R	0.0	0.0	0.0	miguelcos/fasta_processing
+MiguelCos/spritz_fasta_2_fragpipe_adaptation	include	metadata indicates biological FASTA use	Attempt to adapt the fasta headers from the Spritz output to a FragPipe/Philosopher-compatible format		R	2.0	0.0	0.0	miguelcos/spritz_fasta_2_fragpipe_adaptation
+MikelAguirreRodrigo/Select_fasta_gb	include	repository name indicates FASTA sequence handling			Perl	0.0	0.0	0.0	mikelaguirrerodrigo/select_fasta_gb
+miko8422/est-fasta-processing	exclude	insufficient metadata to establish biological FASTA use	This is the repo for EST Client code		Python	0.0	0.0	0.0	miko8422/est-fasta-processing
+Mikosa1237/FASTA-analizator	exclude	insufficient metadata to establish biological FASTA use			C#	0.0	0.0	0.0	mikosa1237/fasta-analizator
+mingyanisa/q4bio-fasta-prep	exclude	insufficient metadata to establish biological FASTA use			Nextflow	0.0	0.0	0.0	mingyanisa/q4bio-fasta-prep
+MiriamOrtiz/basic-fasta-utils	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	miriamortiz/basic-fasta-utils
+misterchristoff1/fasta-search	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	misterchristoff1/fasta-search
+mital14/fetch_fasta	include	repository name indicates FASTA sequence handling			Shell	0.0	0.0	0.0	mital14/fetch_fasta
+mitchellwrosen/fasta	exclude	insufficient metadata to establish biological FASTA use			Haskell	2.0	0.0	0.0	mitchellwrosen/fasta
+MithulaJinde317-hub/FASTA	exclude	insufficient metadata to establish biological FASTA use	FASTA		Python	0.0	0.0	0.0	mithulajinde317-hub/fasta
+mjzapata/renameFasta	include	repository name indicates FASTA sequence handling			Java	0.0	0.0	0.0	mjzapata/renamefasta
+mkaggrey/Fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	mkaggrey/fasta
+mken418/split_fasta_by_chr	include	repository name indicates FASTA sequence handling			Python	1.0	0.0	0.0	mken418/split_fasta_by_chr
+mkiravn/ancestral_fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	mkiravn/ancestral_fasta
+mnsmar/fasta	include	metadata indicates biological FASTA use	Convenient handling of FASTA-encoded files for the Go language	bioinformatics;fasta;go;parser;sequencing	Go	0.0	0.0	0.0	mnsmar/fasta
+Mohamed-Medhat206/Fasta-task	exclude	insufficient metadata to establish biological FASTA use			C++	0.0	0.0	0.0	mohamed-medhat206/fasta-task
+mohmmedfathi/fasta-task	exclude	insufficient metadata to establish biological FASTA use			C++	1.0	0.0	0.0	mohmmedfathi/fasta-task
+mohsenzakeri/clean-fasta	include	repository name indicates FASTA sequence handling			Rust	0.0	0.0	0.0	mohsenzakeri/clean-fasta
+Mojiri3/accn_to_fasta	include	metadata indicates biological FASTA use	FASTA format에서 원하는 header 정보를 제공하여 빠르게 sequence 추출하기		Rust	0.0	0.0	0.0	mojiri3/accn_to_fasta
+molishanrt-cyber/human-insulin-fasta-analyzer	include	repository name indicates FASTA sequence handling			Python	1.0	0.0	0.0	molishanrt-cyber/human-insulin-fasta-analyzer
+molnarjani/fasta	exclude	insufficient metadata to establish biological FASTA use	Fast tracking app		JavaScript	0.0	0.0	0.0	molnarjani/fasta
+MonSaHer/Analizador_Fasta-	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	monsaher/analizador_fasta-
+MonSaHer/gc-fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	monsaher/gc-fasta
+montidas663/uniprot_sprot_fasta	exclude	insufficient metadata to establish biological FASTA use			Jupyter Notebook	0.0	0.0	0.0	montidas663/uniprot_sprot_fasta
+moozeq/awd-fasta-plots	include	metadata indicates biological FASTA use	Creating plots using FASTA amino-acid files	amino-acid-sequence;awd;fasta-sequences;plot	Python	1.0	0.0	0.0	moozeq/awd-fasta-plots
+morganokpara/fasta-fastq-parser	include	metadata indicates biological FASTA use	A simple R-based tool for parsing and analyzing FASTA/FASTQ files		R	0.0	0.0	0.0	morganokpara/fasta-fastq-parser
+movingpictures83/Any2FASTA	include	metadata indicates biological FASTA use	Convert multiple formats to FASTA		C++	0.0	0.0	0.0	movingpictures83/any2fasta
+movingpictures83/BED2FASTA	include	metadata indicates biological FASTA use	Convert BED to FASTA		Python	1.0	0.0	0.0	movingpictures83/bed2fasta
+movingpictures83/FASTA2FASTQ	include	metadata indicates biological FASTA use	Convert from FASTA to FASTQ format		C++	0.0	0.0	0.0	movingpictures83/fasta2fastq
+mpconte/fasta_reverse	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	mpconte/fasta_reverse
+mperezjigato/geometryfilesCIF_PDB_XSF_FASTA	include	repository name indicates FASTA sequence handling			Shell	0.0	0.0	0.0	mperezjigato/geometryfilescif_pdb_xsf_fasta
+MrGhost-Aymen/FASTA-Concatenator	include	metadata indicates biological FASTA use	Advanced FASTA Concatenator		HTML	0.0	0.0	0.0	mrghost-aymen/fasta-concatenator
+mriffle/filter_fasta	include	repository name indicates FASTA sequence handling	Python program to filter a large FASTA into a smaller FASTA based on search results		Python	0.0	0.0	0.0	mriffle/filter_fasta
+mriffle/nf-filter-fasta	include	repository name indicates FASTA sequence handling	Nextflow workflow for creating a small FASTA from a large FASTA based on hits found by comet		Nextflow	1.0	0.0	0.0	mriffle/nf-filter-fasta
+MrJJJ/vim-fasta	include	metadata indicates biological FASTA use	Fasta viewer for vim			0.0	0.0	0.0	mrjjj/vim-fasta
+Mrkorg1000/FastA_Menu_project	exclude	insufficient metadata to establish biological FASTA use	Fast Api training project		Python	0.0	0.0	0.0	mrkorg1000/fasta_menu_project
+mrudhula-bioinformatics-hub/Fasta-analyzer	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	mrudhula-bioinformatics-hub/fasta-analyzer
+MSandeeB/Bioinformatics-Fasta-Maker	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	msandeeb/bioinformatics-fasta-maker
+msing21/Fasta_to_protvec_features	include	repository name indicates FASTA conversion/handling			Python	1.0	0.0	0.0	msing21/fasta_to_protvec_features
+mu-neera/pattern_lab_fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	mu-neera/pattern_lab_fasta
+mugabe34/fasta-backend	exclude	insufficient metadata to establish biological FASTA use			JavaScript	0.0	0.0	0.0	mugabe34/fasta-backend
+mugabe34/fasta-frontend	exclude	insufficient metadata to establish biological FASTA use			JavaScript	0.0	0.0	0.0	mugabe34/fasta-frontend
+Musa-Elia/Davileen-Bei-Fasta	include	metadata indicates biological FASTA use	Internal price tracking and deal management tool for Davileen services. Built to monitor, compare, and act on pricing data – fasta, smart, and local.		JavaScript	0.0	0.0	0.0	musa-elia/davileen-bei-fasta
+MustafaMertAtalan/pbio-fasta-generator	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	mustafamertatalan/pbio-fasta-generator
+Muzzamil-malick/FASTA-and-Metadata-File-Filtering-Shiny-App	include	metadata indicates biological FASTA use	This repository contains a Shiny application that allows users to filter FASTA and metadata files based on selected localities, date range, state/province, and cluster. The application reads the input files, applies the filters, and outputs the filtered data.		R	0.0	0.0	0.0	muzzamil-malick/fasta-and-metadata-file-filtering-shiny-app
+mwakajila87/boda-fasta	exclude	insufficient metadata to establish biological FASTA use			Dart	0.0	0.0	0.0	mwakajila87/boda-fasta
+mwakaswanga/Lipa-Fasta	exclude	metadata indicates unrelated use of FASTA term/acronym	Lipa Fasta is a mobile payment application, which allows payment of different services and goods as per exactly amount			0.0	0.0	0.0	mwakaswanga/lipa-fasta
+mwmahlberg/fasta2pansn	include	repository name indicates FASTA conversion/handling			Go	0.0	0.0	0.0	mwmahlberg/fasta2pansn
+mycologenomics/Bam2fasta	include	metadata indicates biological FASTA use	Convert BAM file to FASTA, taking variant calls into account		Shell	0.0	0.0	0.0	mycologenomics/bam2fasta
+n8n-code/n8n-nodes-deutschebahn-fasta	exclude	insufficient metadata to establish biological FASTA use	RESTful API for German railway station elevator and escalator status data.	api;automation;deutschebahn-fasta;n8n;n8n-community-node;n8n-node;openapi;swagger;workflow	TypeScript	0.0	0.0	0.0	n8n-code/n8n-nodes-deutschebahn-fasta
+Naclist/2530_fasta	include	metadata indicates biological FASTA use	Klebsiella data backup			0.0	0.0	0.0	naclist/2530_fasta
+Naclist/542_fasta	include	metadata indicates biological FASTA use	Klebsiella data backup			0.0	0.0	0.0	naclist/542_fasta
+nadvla/bioinformatics-fasta-generator	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	nadvla/bioinformatics-fasta-generator
+naingolan/mchongo-fasta-app	exclude	insufficient metadata to establish biological FASTA use			Dart	0.0	0.0	0.0	naingolan/mchongo-fasta-app
+naingolan/mchongo-fasta-frontend	exclude	insufficient metadata to establish biological FASTA use			TypeScript	0.0	0.0	0.0	naingolan/mchongo-fasta-frontend
+Namachuru/fuel-fasta-react-native-app	exclude	insufficient metadata to establish biological FASTA use			JavaScript	0.0	0.0	0.0	namachuru/fuel-fasta-react-native-app
+namba3/FASTA-Util	include	repository name indicates FASTA sequence handling			Rust	0.0	0.0	0.0	namba3/fasta-util
+nat2bee/fasta-manipulation	include	repository name indicates FASTA sequence handling	Useful scripts for fasta		Python	1.0	0.0	0.0	nat2bee/fasta-manipulation
+nataliaaa200/AnalizaFasta	exclude	insufficient metadata to establish biological FASTA use	Wykorzystane środowisko WindowsForms		C#	0.0	0.0	0.0	nataliaaa200/analizafasta
+nawrockie/coded_by2extract_fasta_multi_exon	include	metadata indicates biological FASTA use	Perl script for converting a NCBI coded_by string to input for the extract_fasta_multi_exon C program		Perl	0.0	0.0	0.0	nawrockie/coded_by2extract_fasta_multi_exon
+nawrockie/extract_fasta_multi_exon	include	metadata indicates biological FASTA use	C program based on Richa Agarwala's extract_fasta that works for genes with multiple exons.		C	0.0	0.0	0.0	nawrockie/extract_fasta_multi_exon
+naylafaiha0/fasta_splitter	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	naylafaiha0/fasta_splitter
+nbx0/clarity-xls2fasta	include	repository name indicates FASTA conversion/handling			Python	1.0	0.0	0.0	nbx0/clarity-xls2fasta
+ncodeintern1/fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	ncodeintern1/fasta
+ncparsley/CSV_to_FASTA	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	ncparsley/csv_to_fasta
+ncparsley/Fasta_Filter	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	ncparsley/fasta_filter
+ndaw365/FASTA-Variant-Processing-	exclude	insufficient metadata to establish biological FASTA use			R	0.0	0.0	0.0	ndaw365/fasta-variant-processing-
+negroenvidioso/FASTA_MotifScanner	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	negroenvidioso/fasta_motifscanner
+nehagupta020604-hue/FASTA	exclude	insufficient metadata to establish biological FASTA use	FASTA		Python	0.0	0.0	0.0	nehagupta020604-hue/fasta
+ngao2k/G4-Fasta2Bed	include	repository name indicates FASTA sequence handling			Java	0.0	0.0	0.0	ngao2k/g4-fasta2bed
+nguyenntkn/Assignment_4_Options_FASTA_vs_FASTQ	include	metadata indicates biological FASTA use			Shell	0.0	0.0	0.0	nguyenntkn/assignment_4_options_fasta_vs_fastq
+nicolasdcubillos/Genetic-Codes-FASTA	include	repository name indicates FASTA sequence handling	FASTA (.fa) file processor developed in C++11. Data structures project.		C++	0.0	1.0	0.0	nicolasdcubillos/genetic-codes-fasta
+Nightcoagulation/Batch_download_fasta	include	repository name indicates FASTA sequence handling	Batch download fasta from nbci		Python	0.0	0.0	0.0	nightcoagulation/batch_download_fasta
+Nightcoagulation/pandas-fasta	include	metadata indicates biological FASTA use	用pandas提取excel中特定列并组装		Jupyter Notebook	0.0	0.0	0.0	nightcoagulation/pandas-fasta
+NikitaKurochkin1/Fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	nikitakurochkin1/fasta
+nimua/single_fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	nimua/single_fasta
+nischitha216/fasta-upload	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	nischitha216/fasta-upload
+njdbickhart/GetMaskBedFasta	include	metadata indicates biological FASTA use	A program that efficiently identifies masked or gap regions in assemblies		Java	1.0	0.0	0.0	njdbickhart/getmaskbedfasta
+njliangdong/add_eggNOG_to_fasta	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	njliangdong/add_eggnog_to_fasta
+noadrow/fasta_bed_switch	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	noadrow/fasta_bed_switch
+NorwegianVeterinaryInstitute/irida-plugin-Fastq-fasta	include	metadata indicates biological FASTA use	Test plugin to make our hands dirty in learning how to develop irida-plugin			0.0	0.0	0.0	norwegianveterinaryinstitute/irida-plugin-fastq-fasta
+NoSpooksAllowed/fasta_api_stepik_exam	exclude	metadata indicates unrelated use of FASTA term/acronym	This is the repository for my final exam project from the FastAPI course on Stepik.		Python	0.0	0.0	0.0	nospooksallowed/fasta_api_stepik_exam
+not-a-feature/miniFASTA	include	metadata indicates biological FASTA use	An small FASTA toolbox for small to medium size projects without dependencies.	bioinformatics;fasta;python;reader-writer;toolbox	Python	4.0	0.0	0.0	not-a-feature/minifasta
+novitch/retrieve_sequences_fasta	include	metadata indicates biological FASTA use			Perl	0.0	0.0	0.0	novitch/retrieve_sequences_fasta
+nurhusien1970/xmltofasta	include	repository name indicates FASTA conversion/handling	This project is on xml conversion to fasta in rare case need		Python	0.0	0.0	0.0	nurhusien1970/xmltofasta
+nwillbrightn/Bodda-Fasta	exclude	insufficient metadata to establish biological FASTA use			TypeScript	0.0	0.0	0.0	nwillbrightn/bodda-fasta
+nwillbrightn/Bodda-Fasta-Backend	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	nwillbrightn/bodda-fasta-backend
+nwillbrightn/Bodda-Fasta-Frontend	exclude	insufficient metadata to establish biological FASTA use			TypeScript	0.0	0.0	0.0	nwillbrightn/bodda-fasta-frontend
+nylander/efasta2fasta	include	metadata indicates biological FASTA use	Convert extended fasta (efasta) to fasta		Perl	1.0	0.0	0.0	nylander/efasta2fasta
+nylander/fasta-tab	include	metadata indicates biological FASTA use	Convert fasta to tab, and back		Perl	0.0	0.0	0.0	nylander/fasta-tab
+nylander/fasta2psiblast	include	metadata indicates biological FASTA use	Convert fasta MSA to format suitable for PSIBLAST		Python	0.0	0.0	0.0	nylander/fasta2psiblast
+nylander/split-fasta-seq	include	repository name indicates FASTA sequence handling	Split long fasta entries to shorter - and fast!		C	0.0	0.0	0.0	nylander/split-fasta-seq
+nylander/translate_fasta_headers	include	metadata indicates biological FASTA use	Translate long fasta headers to short - and back!		Perl	4.0	0.0	0.0	nylander/translate_fasta_headers
+obiech/fasta	exclude	insufficient metadata to establish biological FASTA use			Dart	1.0	0.0	0.0	obiech/fasta
+Odditude/FASTA-BAM-done	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	odditude/fasta-bam-done
+Odira007/Fasta	exclude	insufficient metadata to establish biological FASTA use	ASP.NET Core MVC Car Rental Application		C#	1.0	0.0	0.0	odira007/fasta
+Ofir-Leshem/fasta2hdf5	include	repository name indicates FASTA conversion/handling			Python	1.0	0.0	0.0	ofir-leshem/fasta2hdf5
+olga-perczynska/PO_WIZ_FASTA	exclude	insufficient metadata to establish biological FASTA use			C#	0.0	0.0	0.0	olga-perczynska/po_wiz_fasta
+olgatsiouri1996/df2fasta	include	repository name indicates FASTA conversion/handling	R Function that Converts Dataframe to FASTA 		R	1.0	0.0	0.0	olgatsiouri1996/df2fasta
+olgatsiouri1996/merops_fasta_fixer	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	olgatsiouri1996/merops_fasta_fixer
+olgatsiouri1996/miRBase-fasta-by-org-subsetter	include	metadata indicates biological FASTA use	GUI app to retrieve mature or hairpin miRNA sequences by organism		Python	0.0	0.0	0.0	olgatsiouri1996/mirbase-fasta-by-org-subsetter
+olivierfriard/fasta_scan	exclude	insufficient metadata to establish biological FASTA use			Pascal	0.0	0.0	0.0	olivierfriard/fasta_scan
+Omig12/Vala_FastQ_to_Fasta	include	metadata indicates biological FASTA use	A native Gnome GUI for a common file conversion used by molecular biologist and bioinformatics		Vala	0.0	0.0	0.0	omig12/vala_fastq_to_fasta
+Oops324/Automatically-download-fasta-from-NCBI	include	metadata indicates biological FASTA use	Automatically download sequences from NCBI and filter by query		Python	0.0	0.0	0.0	oops324/automatically-download-fasta-from-ncbi
+oospina/fasta2migrate	include	repository name indicates FASTA conversion/handling			Python	0.0	0.0	0.0	oospina/fasta2migrate
+oovchin1/FASTA_IO	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	oovchin1/fasta_io
+Oshy44/Fasta	exclude	insufficient metadata to establish biological FASTA use			Java	0.0	0.0	0.0	oshy44/fasta
+Ossama-Shafiq/Bioinformatics_fasta_seqs	include	metadata indicates biological FASTA use			Shell	0.0	0.0	0.0	ossama-shafiq/bioinformatics_fasta_seqs
+oswaldamwoirai/-Fasta_online2025	exclude	insufficient metadata to establish biological FASTA use	official Repo for fasta online website		HTML	1.0	0.0	0.0	oswaldamwoirai/-fasta_online2025
+pankhilpandya01-star/bioinformatics-project-01-fasta-explorer	include	metadata indicates biological FASTA use	Beginner Python tool for comparing length and GC content across real bacterial 16S rRNA sequences.	16s-rrna;bioinformatics;computational-biology;fasta;python;sequence-analysis	Python	0.0	0.0	0.0	pankhilpandya01-star/bioinformatics-project-01-fasta-explorer
+patrickgrey/2018-clients-finn-grey-fasta	exclude	insufficient metadata to establish biological FASTA use			JavaScript	0.0	0.0	0.0	patrickgrey/2018-clients-finn-grey-fasta
+patrycjaryske/Analizator-FASTA	exclude	insufficient metadata to establish biological FASTA use			C#	0.0	0.0	0.0	patrycjaryske/analizator-fasta
+paulmaier/fasta2genotype	include	repository name indicates FASTA conversion/handling	Convert STACKS fasta to many genotype formats		Python	6.0	0.0	0.0	paulmaier/fasta2genotype
+Paulos-source/Fasta-vpn	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	paulos-source/fasta-vpn
+paulranum11/Fasta_to_Fastq.py	include	metadata indicates biological FASTA use		read	Python	0.0	0.0	0.0	paulranum11/fasta_to_fastq.py
+PavelLaptev/Fasta-Fasta-Sketch-plugin	exclude	insufficient metadata to establish biological FASTA use	background timer for sketch			2.0	0.0	0.0	pavellaptev/fasta-fasta-sketch-plugin
+pbfrandsen/fasta_metadata_parser	include	repository name indicates FASTA sequence handling			Python	3.0	0.0	0.0	pbfrandsen/fasta_metadata_parser
+pchitsutti/KaryotypicSortFasta	include	repository name indicates FASTA sequence handling			Perl	0.0	0.0	0.0	pchitsutti/karyotypicsortfasta
+pcubilescid/Fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	pcubilescid/fasta
+pcubilescid/LecturaFicheroFasta	include	metadata indicates biological FASTA use	programa en Python que tome como entrada un fichero FASTA vaya leyendo el fichero, extrayendo las cabeceras de las secuencias, e imprimiendo por pantalla las mismas, una por línea		Python	0.0	0.0	0.0	pcubilescid/lecturaficherofasta
+pedro-fr/multi-fasta-split	include	metadata indicates biological FASTA use	Bash scripts to split a MultiFasta file into individual fasta		Shell	1.0	0.0	0.0	pedro-fr/multi-fasta-split
+pedroscampoy/fasta_to_data	include	metadata indicates biological FASTA use	This script blast all sequences in a multifasta and download all sequences that met user parameters, mostly size. 		Jupyter Notebook	0.0	0.0	0.0	pedroscampoy/fasta_to_data
+PelinsuEkmekci/csv-to-fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	pelinsuekmekci/csv-to-fasta
+persichilloletizia-svg/fasta-motif-miner	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	persichilloletizia-svg/fasta-motif-miner
+pesanteur/FaStA	exclude	insufficient metadata to establish biological FASTA use	Sentiment Analysis using Vader, Tweepy and Facebook Groups		Python	0.0	0.0	0.0	pesanteur/fasta
+pforman/fasta-example	include	metadata indicates biological FASTA use	Example code for FASTA fragment assembly		Go	0.0	0.0	0.0	pforman/fasta-example
+PGComai/Fasta-Pasta	exclude	insufficient metadata to establish biological FASTA use			GDScript	0.0	0.0	0.0	pgcomai/fasta-pasta
+pgomezroca/bot-u-fasta	exclude	insufficient metadata to establish biological FASTA use			JavaScript	0.0	0.0	0.0	pgomezroca/bot-u-fasta
+phasepack/fasta-python	exclude	metadata indicates FASTA algorithm/acronym rather than FASTA format use	A Python implementation of Goldstein et. al's FASTA algorithm for convex optimization.	convex-optimization;gradient-descent;proximal-algorithms	Python	6.0	0.0	0.0	phasepack/fasta-python
+phenolophthaleinum/fasta2png	include	repository name indicates FASTA conversion/handling			Jupyter Notebook	0.0	0.0	0.0	phenolophthaleinum/fasta2png
+PhilippPelz/fasta-tomography	include	repository name indicates FASTA sequence handling	A GPU accelerated tomography reconstruction package, powered by pytorch and ASTRA		Python	8.0	0.0	0.0	philipppelz/fasta-tomography
+PHNX04/fasta-qc-mini	exclude	insufficient metadata to establish biological FASTA use			Java	0.0	0.0	0.0	phnx04/fasta-qc-mini
+photocyte/10X_fasta_to_gfa	include	repository name indicates FASTA conversion/handling			Python	1.0	0.0	0.0	photocyte/10x_fasta_to_gfa
+Pighills/Fasta	exclude	insufficient metadata to establish biological FASTA use			JavaScript	0.0	0.0	0.0	pighills/fasta
+Pio82/fasta_summary	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	pio82/fasta_summary
+PoisonAifih/Compbio_TunaFasta	include	repository name indicates FASTA sequence handling			Jupyter Notebook	0.0	0.0	0.0	poisonaifih/compbio_tunafasta
+PoisonAlien/gtf2fasta	include	metadata indicates biological FASTA use	Tookit for gtf format conversion and sequence extraction	gtf;rna-seq	Julia	5.0	0.0	0.0	poisonalien/gtf2fasta
+PolyU-HTI-Copilot/cat-fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	polyu-hti-copilot/cat-fasta
+popgenomics/fasta2ABC	include	metadata indicates biological FASTA use			C++	0.0	0.0	0.0	popgenomics/fasta2abc
+popgenomics/vcf2fasta	include	metadata indicates biological FASTA use			C++	0.0	0.0	0.0	popgenomics/vcf2fasta
+PopoolaAbdulgafar/fasta-counter	include	repository name indicates FASTA sequence handling			Shell	0.0	0.0	0.0	popoolaabdulgafar/fasta-counter
+pouyannc/fasta_util_tool	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	pouyannc/fasta_util_tool
+PPeachi/fasta	exclude	insufficient metadata to establish biological FASTA use	for test		R	0.0	0.0	0.0	ppeachi/fasta
+pranith01/Fasta_to_txt_converter	include	repository name indicates FASTA sequence handling			HTML	0.0	0.0	0.0	pranith01/fasta_to_txt_converter
+pscpsm/fasta-to-fastq	include	metadata indicates biological FASTA use	Automatically exported from code.google.com/p/fasta-to-fastq		Perl	0.0	0.0	0.0	pscpsm/fasta-to-fastq
+pswsm/fasta_cli_tools	include	metadata indicates biological FASTA use	A small fasta CLI toolkit developed in Rust	bioinformatics;bioinformatics-tool;cli;cli-app;fasta-sequences;rust;rust-lang	Rust	2.0	0.0	0.0	pswsm/fasta_cli_tools
+Public-Health-Bioinformatics/reformat_usearch_collapsed_fasta	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	public-health-bioinformatics/reformat_usearch_collapsed_fasta
+Puritynjenga/Fasta_header_rename	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	puritynjenga/fasta_header_rename
+pvanheus/merge_fasta	include	metadata indicates biological FASTA use	merge_fasta Galaxy tool			1.0	0.0	0.0	pvanheus/merge_fasta
+pvanheus/refseq_fasta_data_manager	include	metadata indicates biological FASTA use	Galaxy data manager for downloading data from NCBI RefSeq and adding to all_fasta.loc		Python	0.0	0.0	0.0	pvanheus/refseq_fasta_data_manager
+pxxiao-hz/xFASTA	exclude	insufficient metadata to establish biological FASTA use			Python	1.0	0.0	0.0	pxxiao-hz/xfasta
+pyoelii/FASTA-Scripts	include	repository name indicates FASTA sequence handling	FASTA Scripts and Tools			0.0	0.0	0.0	pyoelii/fasta-scripts
+pyrun-cloud/ray-fasta-pipeline	exclude	insufficient metadata to establish biological FASTA use			Jupyter Notebook	0.0	0.0	0.0	pyrun-cloud/ray-fasta-pipeline
+pythonghetti/FASTA-anlyser	include	metadata indicates biological FASTA use	Python script to display G, C, T, A content and length of genetic sequence		Python	0.0	0.0	0.0	pythonghetti/fasta-anlyser
+qnmateen/Annoscript-Trinity.fasta	include	repository name indicates FASTA sequence handling				0.0	1.0	0.0	qnmateen/annoscript-trinity.fasta
+QQ767172261/Create-and-build-a-YOLOv8based-fish-disease-detection-system-using-frameworks-such-as-Flask-or-FastA	exclude	metadata indicates unrelated use of FASTA term/acronym	使用Flask或FastAPI等框架创建构建一个基于YOLOv8的鱼病害检测系统，训练使用鱼类病害检测数据集_包括环境设置、数据准备、模型训练、评估和推理部署。			0.0	0.0	0.0	qq767172261/create-and-build-a-yolov8based-fish-disease-detection-system-using-frameworks-such-as-flask-or-fasta
+qtsrepos/gemini_fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	qtsrepos/gemini_fasta
+QuintinPope/FASTA_Perceiver	include	metadata indicates biological FASTA use	Code to prepare FASTA data and train a perceiver language model with masked language modeling		Python	0.0	0.0	0.0	quintinpope/fasta_perceiver
+Rachanabhowmik/ANTI-MD-NEGATIVE.fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	rachanabhowmik/anti-md-negative.fasta
+Rachanabhowmik/ANTI-RD-NEGATIVE.fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	rachanabhowmik/anti-rd-negative.fasta
+Rachanabhowmik/ANTI-TB-POSITIVE.fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	rachanabhowmik/anti-tb-positive.fasta
+Rachanabhowmik/ANTITB-POSITIVE.fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	rachanabhowmik/antitb-positive.fasta
+Rachanabhowmik/pos_dat_s.fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	rachanabhowmik/pos_dat_s.fasta
+Rachanabhowmik/RD_negdata.fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	rachanabhowmik/rd_negdata.fasta
+raisha-rfq/combine-fasta-py-bash	include	metadata indicates biological FASTA use	 Inspired from https://www.bioinformatics.org/sms2/combine_fasta.html.	combine-fasta;fasta	Shell	1.0	0.0	0.0	raisha-rfq/combine-fasta-py-bash
+Raithalus/FASTA	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	raithalus/fasta
+ramsainanduri/subset_multifasta	include	metadata indicates biological FASTA use	Subset Multi Fasta		Python	0.0	0.0	0.0	ramsainanduri/subset_multifasta
+RaphaelHebert/fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	raphaelhebert/fasta
+RaphaelHebert/fasta-downlaoad-from-NCBI	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	raphaelhebert/fasta-downlaoad-from-ncbi
+raramayo/Fasta_GFF3_Equalizer_Bash	include	metadata indicates biological FASTA use			Shell	0.0	0.0	0.0	raramayo/fasta_gff3_equalizer_bash
+raramayo/Fasta_Seq_Plot_Bash	include	repository name indicates FASTA sequence handling			Shell	0.0	0.0	0.0	raramayo/fasta_seq_plot_bash
+raramayo/Fasta_Seq_Prepare_Bash	include	repository name indicates FASTA sequence handling			Shell	0.0	0.0	0.0	raramayo/fasta_seq_prepare_bash
+raramayo/Taxonomy_Fasta_Headers_Python	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	raramayo/taxonomy_fasta_headers_python
+raulmejia/ab1-2-fasta-using-abiview	include	repository name indicates FASTA sequence handling	This repository handle ab1 files		Shell	0.0	0.0	0.0	raulmejia/ab1-2-fasta-using-abiview
+Rawal-Lab/screening_fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	rawal-lab/screening_fasta
+ray-ok-0618/FASTA_filter	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	ray-ok-0618/fasta_filter
+RayhanNuansa/FASTA	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	rayhannuansa/fasta
+rdpatilds/fasta22	include	repository name indicates FASTA conversion/handling	Config files for my GitHub profile.	config;github-config	Jupyter Notebook	0.0	0.0	0.0	rdpatilds/fasta22
+rebeccacamejo/fasta2a	exclude	metadata indicates FASTA algorithm/acronym rather than FASTA format use	a Python framework for building and consuming Agent‑to‑Agent (A2A) servers. It draws inspiration from the popular FastMCP project but targets the A2A protocol directly.	a2a-client;a2a-mcp;a2a-protocol;a2a-server;agentic-ai	Python	0.0	0.0	0.0	rebeccacamejo/fasta2a
+RebeckaAntonsson/Fasta_and_BlastX_Parser	include	metadata indicates biological FASTA use	First exercise in BERN02, called workflows and FAIR principles 	bioinformatics;blastx;fasta;parser	Python	0.0	0.0	0.0	rebeckaantonsson/fasta_and_blastx_parser
+reeshho/bioinformatics-fasta-fastq	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	reeshho/bioinformatics-fasta-fastq
+rehman9852/fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	rehman9852/fasta
+remimarenco/multi_fasta_glimmerhmm	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	remimarenco/multi_fasta_glimmerhmm
+Res2677/Fasta_QC	exclude	insufficient metadata to establish biological FASTA use			Perl	0.0	0.0	0.0	res2677/fasta_qc
+researchapps/fasta-utilities	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	researchapps/fasta-utilities
+ReyhanFasta/ReyhanFasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	reyhanfasta/reyhanfasta
+RezaJF/FASTA-manipulation	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	rezajf/fasta-manipulation
+RHUN-N1/fastq-to-fasta-conversion-for-5S-Tadnem-Repeat-Arrays-	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	rhun-n1/fastq-to-fasta-conversion-for-5s-tadnem-repeat-arrays-
+RHYNLDVCE/bms-fasta_api	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	rhynldvce/bms-fasta_api
+ri484/vcf2alnfasta	include	metadata indicates biological FASTA use	Convert vcf to (aligned-)FASTA		Crystal	0.0	0.0	0.0	ri484/vcf2alnfasta
+ricklevy21/fasta-gen	include	metadata indicates biological FASTA use	a web application that allows user to upload a spreadsheet of sequence data, pull matching specimen metadata from GBIF, export FASTA and Source Modifier files		JavaScript	0.0	0.0	0.0	ricklevy21/fasta-gen
+rishisab/Fasta-analysis	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	rishisab/fasta-analysis
+rishisab/fasta-summary	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	rishisab/fasta-summary
+rkanippayoor/fasta-to-fastq	include	metadata indicates biological FASTA use	Automatically exported from code.google.com/p/fasta-to-fastq			0.0	0.0	0.0	rkanippayoor/fasta-to-fastq
+rmonjaraz/fasta2ima	include	repository name indicates FASTA conversion/handling			Python	0.0	0.0	0.0	rmonjaraz/fasta2ima
+rmonjaraz/fasta2onehot	include	repository name indicates FASTA conversion/handling			Python	0.0	0.0	0.0	rmonjaraz/fasta2onehot
+RobertoRun/vcf-tab-to-fasta	include	metadata indicates biological FASTA use	Automatically exported from code.google.com/p/vcf-tab-to-fasta		Perl	1.0	0.0	0.0	robertorun/vcf-tab-to-fasta
+rockNhu/gbk2fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	rocknhu/gbk2fasta
+Rodrigo-lima96/Projeto_01_analizador_fasta	include	metadata indicates biological FASTA use	Baixa, analisa e gera relatório de sequências COI via NCBI (Python + Biopython)		Python	1.0	0.0	0.0	rodrigo-lima96/projeto_01_analizador_fasta
+Rodrigo4321/fasta_nexus	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	rodrigo4321/fasta_nexus
+rodrigolive/fasta	include	metadata indicates biological FASTA use	language shootout fasta scripts		JavaScript	1.0	0.0	0.0	rodrigolive/fasta
+rodtesillo/analizador-fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	rodtesillo/analizador-fasta
+rodtesillo/gc-fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	rodtesillo/gc-fasta
+rokzajc/rename_fasta	include	metadata indicates biological FASTA use	Automatically rename fasta and genbank files to the species name mentioned in the file	bioinformatics;fasta;genbank-files	Python	0.0	0.0	0.0	rokzajc/rename_fasta
+RRVB41/analizador-secuencias-fasta	include	metadata indicates biological FASTA use	Herramienta en Python basada en Programación Orientada a Objetos para el análisis de archivos FASTA		Python	0.0	0.0	0.0	rrvb41/analizador-secuencias-fasta
+rsettlage/illumina_vector_contaminants_fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	rsettlage/illumina_vector_contaminants_fasta
+rtobiaskoch/fasta_replace	exclude	insufficient metadata to establish biological FASTA use			R	0.0	0.0	0.0	rtobiaskoch/fasta_replace
+Ruberoshido/fasta.ai	exclude	metadata indicates unrelated use of FASTA term/acronym	fast.ai 2022			0.0	0.0	0.0	ruberoshido/fasta.ai
+RuikangSun/Fasta2A3m	include	repository name indicates FASTA conversion/handling	ColabFold MSA批量处理脚本。		Python	0.0	0.0	0.0	ruikangsun/fasta2a3m
+s-yc25/-ID-fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	s-yc25/-id-fasta
+s28395/FASTA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	s28395/fasta
+s30641/PBIO_Zadanie_FASTA	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	s30641/pbio_zadanie_fasta
+sabifo4/fasta-phylip-partitions	include	metadata indicates biological FASTA use	Convert from fasta to phylip format and generate partitioned data if needed	bioinformatics-pipeline;codon-positions;fasta-phylip-format;partitioned-alignments	Perl	3.0	0.0	0.0	sabifo4/fasta-phylip-partitions
+Sachi5366/FASTA-reverse	include	repository name indicates FASTA sequence handling			C++	0.0	0.0	0.0	sachi5366/fasta-reverse
+sadaqat17/FASTA-to-Table-and-Table-to-FASTA-Conversion	include	metadata indicates biological FASTA use	This repository contains Python scripts to convert biological sequence data between FASTA and CSV formats		Python	0.0	0.0	0.0	sadaqat17/fasta-to-table-and-table-to-fasta-conversion
+saharismail1998/BIO-fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	saharismail1998/bio-fasta
+saitomics/extractPeptidesFromFasta	include	metadata indicates biological FASTA use	extractPeptidesFromFasta		Python	1.0	0.0	0.0	saitomics/extractpeptidesfromfasta
+sakshihgupta-ux/FASTA	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	sakshihgupta-ux/fasta
+salariumsegue/fasta-app	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	salariumsegue/fasta-app
+Saloni21098/Inovirus_processed_multifasta	include	metadata indicates biological FASTA use	Extracted subsequences from multifasta file InovirusM13.fasta and IVM13.bed, removed them, and created Bed_2.bed. Reversed complemented the extracted seqs. Introduced random 1 nt change in the extracted seqs to form processed seqs. Inserted the processed seqs back into primary multifasta fileand saved as new_file.fasta.		Python	0.0	0.0	0.0	saloni21098/inovirus_processed_multifasta
+Sam-Sims/hashfasta	include	metadata indicates biological FASTA use	Very quickly compute hashes for FASTA/FASTQ files considering **only** the sequence content.	bioinformatics;fasta;fastq;rust	Rust	4.0	0.0	0.0	sam-sims/hashfasta
+sambiostat/Fasta2Gnashy	include	metadata indicates biological FASTA use	Code filter and convert the raw sequencing data to .gnashy file		Python	0.0	0.0	0.0	sambiostat/fasta2gnashy
+sameerd/subsample-fasta	exclude	insufficient metadata to establish biological FASTA use			Rust	1.0	0.0	0.0	sameerd/subsample-fasta
+samet-ozkan/Fasta	exclude	metadata indicates FASTA algorithm/acronym rather than FASTA format use	This project creates diagonals for FASTA algorithm.	bioinformatics;diagonal;fasta;fasta-sequence;fasta-sequences	Java	0.0	0.0	0.0	samet-ozkan/fasta
+samirbhoir/fasta	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	samirbhoir/fasta
+SammedMandape/FASTA_ID_conversion	exclude	insufficient metadata to establish biological FASTA use			Perl	0.0	0.0	0.0	sammedmandape/fasta_id_conversion
+samvedk-17/FASTA-Schneider	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	samvedk-17/fasta-schneider
+sanchayjain28/fasta-api	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	sanchayjain28/fasta-api
+sandeepartham9/python-fasta	exclude	insufficient metadata to establish biological FASTA use	sciencecom project		Python	0.0	0.0	0.0	sandeepartham9/python-fasta
+sandipchatterjee/fasta-tryp	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	sandipchatterjee/fasta-tryp
+sandrahoffberg/Combfold-prepare-fasta	exclude	insufficient metadata to establish biological FASTA use			Shell	0.0	0.0	0.0	sandrahoffberg/combfold-prepare-fasta
+sangeetadhruw-hash/FASTA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	sangeetadhruw-hash/fasta
+sangnguyen1006/family-with-fasta-env	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	sangnguyen1006/family-with-fasta-env
+Sanrrone/splitfasta	include	metadata indicates biological FASTA use	Python script to split your multifasta file into N (well build) fastas		Python	0.0	0.0	0.0	sanrrone/splitfasta
+sapnaeggubr96-gif/FASTA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	sapnaeggubr96-gif/fasta
+sarahbiotech/FastA-Analyzer	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	sarahbiotech/fasta-analyzer
+sarahbiotech/FASTA-Gene-Analyzer	include	metadata indicates biological FASTA use			HTML	0.0	0.0	0.0	sarahbiotech/fasta-gene-analyzer
+SarahTandon/fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	sarahtandon/fasta
+sarahtandon12/fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	sarahtandon12/fasta
+Sararl27/fasta-partitioner	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	sararl27/fasta-partitioner
+sauverpro/goFasta	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	sauverpro/gofasta
+schultzm/GFFtoFASTA	include	metadata indicates biological FASTA use	Convert GFF format files to multi-FASTA		Python	0.0	0.0	0.0	schultzm/gfftofasta
+Sci-Glo/fasta-analysis	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	sci-glo/fasta-analysis
+sczerski/format_fasta_for_MED	include	repository name indicates FASTA sequence handling	An automated script for use in the oligotyping/Minimum Entropy Decomposition (MED) pipeline.		Python	0.0	0.0	0.0	sczerski/format_fasta_for_med
+sdigregorio/fasta_manipulation	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	sdigregorio/fasta_manipulation
+SDillmore/fasta_strip	include	metadata indicates biological FASTA use	Holds a simple program to remove internal newline characters		Python	0.0	0.0	0.0	sdillmore/fasta_strip
+sds22892/bfx_fasta_scripts	include	metadata indicates biological FASTA use	fasta common scripts --biocode		Perl	0.0	0.0	0.0	sds22892/bfx_fasta_scripts
+sebschmi/fasta-cleaner	include	repository name indicates FASTA sequence handling			Rust	0.0	0.0	0.0	sebschmi/fasta-cleaner
+seltmann/PlantFasta	exclude	insufficient metadata to establish biological FASTA use			Python	1.0	0.0	0.0	seltmann/plantfasta
+Seraff/fasta_set_operations	include	metadata indicates biological FASTA use	Simple wrapper above SeqKit for basic set operators (intersection, subtraction, etc.)		Shell	1.0	0.0	0.0	seraff/fasta_set_operations
+SertacCebeci/fasta	exclude	metadata indicates unrelated use of FASTA term/acronym	basic p5 game 		JavaScript	0.0	0.0	0.0	sertaccebeci/fasta
+SeyiPerfect1/Fasta	exclude	insufficient metadata to establish biological FASTA use			JavaScript	0.0	0.0	0.0	seyiperfect1/fasta
+sgvolpe/fasta-la-vista	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	sgvolpe/fasta-la-vista
+ShayanArman/Genetic-Sequencer-Using-FastA-Parser	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	shayanarman/genetic-sequencer-using-fasta-parser
+Shazaniyu55/fasta-moni-app	exclude	insufficient metadata to establish biological FASTA use			JavaScript	0.0	0.0	0.0	shazaniyu55/fasta-moni-app
+shengxinzhuan/vcf2fasta	include	metadata indicates biological FASTA use			Python	1.0	0.0	0.0	shengxinzhuan/vcf2fasta
+Shihaleva/Task2_fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	shihaleva/task2_fasta
+shin-kinos/cif-to-fasta	include	metadata indicates biological FASTA use	A small Rust program that changes mmCIF into FASTA by using 'atom_site' Data Category.		Rust	2.0	0.0	0.0	shin-kinos/cif-to-fasta
+shockolavawave/fasta_seq_type	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	shockolavawave/fasta_seq_type
+shreyaknn2304-spec/FASTA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	shreyaknn2304-spec/fasta
+Shubhradeep1999/Fasta_Batch_Analyzer	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	shubhradeep1999/fasta_batch_analyzer
+shuko-tech/SFF2FASTA	include	repository name indicates FASTA conversion/handling	Python script to convert SFF to FASTA.		Python	0.0	0.0	0.0	shuko-tech/sff2fasta
+Siarshai/FastA4Detector	exclude	metadata indicates unrelated use of FASTA term/acronym	Theese classes provide fast corner and A4 sheet detection		C++	0.0	0.0	0.0	siarshai/fasta4detector
+sibelletorres/fasta-to-fastq	include	metadata indicates biological FASTA use	Automatically exported from code.google.com/p/fasta-to-fastq		Perl	0.0	0.0	0.0	sibelletorres/fasta-to-fastq
+Sihebo/Parse_to_fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	sihebo/parse_to_fasta
+silver02050/blast-to-fasta	include	metadata indicates biological FASTA use			TypeScript	0.0	0.0	0.0	silver02050/blast-to-fasta
+simonemallei/From-FASTQ-To-FASTA	include	metadata indicates biological FASTA use	Converter from reads .fq to .fa		Python	0.0	0.0	0.0	simonemallei/from-fastq-to-fasta
+simonpenel/generate_CDS_fasta_PRDM9	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	simonpenel/generate_cds_fasta_prdm9
+Simula-UiB/Fasta	exclude	metadata indicates unrelated use of FASTA term/acronym	Code for timing run times of Fasta and Rasta in HElib		C++	0.0	0.0	0.0	simula-uib/fasta
+siqili-duke/python-fasta	exclude	insufficient metadata to establish biological FASTA use	duke class scicomp workshop		Python	0.0	0.0	0.0	siqili-duke/python-fasta
+sixxchung/dash-fasta	exclude	metadata indicates unrelated use of FASTA term/acronym	based rusnyder / fastapi-plotly-dash		Python	1.0	0.0	0.0	sixxchung/dash-fasta
+soderpop/FASTA-GC-Content-Calculator	include	repository name indicates FASTA sequence handling	what it says on the tin			0.0	0.0	0.0	soderpop/fasta-gc-content-calculator
+sofiavelandiag/Fastq-and-fasta-processor	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	sofiavelandiag/fastq-and-fasta-processor
+solnyshko2009/fasta-pars-process	exclude	insufficient metadata to establish biological FASTA use			Python	1.0	0.0	0.0	solnyshko2009/fasta-pars-process
+somiedo/AnalisisFASTA	include	metadata indicates biological FASTA use	Análisis de archivos FASTA		Jupyter Notebook	0.0	0.0	0.0	somiedo/analisisfasta
+sourabhbawage/fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	sourabhbawage/fasta
+Souvik-369/FASTA-Analyzer-1.1	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	souvik-369/fasta-analyzer-1.1
+Souvik-369/Find-Mutation-in-FASTA-seq	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	souvik-369/find-mutation-in-fasta-seq
+sparavano/Lic.-Ciberseguridad-FASTA-	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	sparavano/lic.-ciberseguridad-fasta-
+spencer-hs/fasta_combiner	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	spencer-hs/fasta_combiner
+Sphamandla-Nko51/FASTA-PROJECTS	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	sphamandla-nko51/fasta-projects
+spoletum/fasta2a-redis	include	repository name indicates FASTA conversion/handling	FastA2A Broker and Storage implementation for Redis			0.0	0.0	0.0	spoletum/fasta2a-redis
+sr320/fasta2slim	include	repository name indicates FASTA conversion/handling				0.0	0.0	0.0	sr320/fasta2slim
+sramosonsins/concatenate_tFasta	include	metadata indicates biological FASTA use	Concatenate different tFasta files		Shell	0.0	0.0	0.0	sramosonsins/concatenate_tfasta
+sramosonsins/indexingtFasta	include	metadata indicates biological FASTA use	Index a tFasta file		C	0.0	0.0	0.0	sramosonsins/indexingtfasta
+sramosonsins/mergetFasta	include	metadata indicates biological FASTA use	Merge two tFasta files		C	0.0	0.0	0.0	sramosonsins/mergetfasta
+Sravz2433/fasta-to-structure	include	repository name indicates FASTA conversion/handling			Jupyter Notebook	0.0	0.0	0.0	sravz2433/fasta-to-structure
+Sree-ragM/Excel2FASTA	include	metadata indicates biological FASTA use	Convert spreadsheet data into FASTA in seconds. With an intuitive interface, column selection, live preview, and one-click export, this tool makes sequence formatting fast, accurate, and hassle-free.		JavaScript	0.0	0.0	0.0	sree-ragm/excel2fasta
+Srivatsava17/sample_fasta_api	exclude	insufficient metadata to establish biological FASTA use			Shell	0.0	0.0	0.0	srivatsava17/sample_fasta_api
+ssorachi/fastq_to_fasta	include	metadata indicates biological FASTA use	Can be used to convert from fastq.gz to fasta.gz		Python	1.0	0.0	0.0	ssorachi/fastq_to_fasta
+stanly08/KaziFasta	exclude	insufficient metadata to establish biological FASTA use			HTML	0.0	0.0	0.0	stanly08/kazifasta
+stasundr/ez-fasta	exclude	insufficient metadata to establish biological FASTA use			JavaScript	0.0	0.0	0.0	stasundr/ez-fasta
+statonlab/tripal_quick_fasta	include	repository name indicates FASTA sequence handling	download all features from your site for site-wide analyses		PHP	0.0	0.0	0.0	statonlab/tripal_quick_fasta
+StellaHillman/convert_csv_to_fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	stellahillman/convert_csv_to_fasta
+stevewhitten/ParSe_v2_FASTA_reviewed_proteome	include	metadata indicates biological FASTA use	ParSe v2 - FASTA - REVIEWED PROTEOME REFERENCE		JavaScript	0.0	0.0	0.0	stevewhitten/parse_v2_fasta_reviewed_proteome
+SummerChaser/FASTA	include	metadata indicates biological FASTA use	生物信息FASTA算法 		Java	0.0	0.0	0.0	summerchaser/fasta
+sunning03/convert_GenBank_To_Fasta	include	repository name indicates FASTA sequence handling	从GenBank文件中提取基因组序列		Python	0.0	0.0	0.0	sunning03/convert_genbank_to_fasta
+Sunyp-IM/pdb2fasta	include	metadata indicates biological FASTA use	This is a modified version of the pbd2fasta written by Pierre Poulain for extracting primary sequences from a pdb file		Shell	0.0	0.0	0.0	sunyp-im/pdb2fasta
+Superior212/Fasta-payment	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	superior212/fasta-payment
+supernetcat/download_hbv_fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	supernetcat/download_hbv_fasta
+suplex123/FASTA-Analysis	include	repository name indicates FASTA sequence handling	This is the code of FASTA's read and analysis,uploaded by suplex123.		Python	0.0	0.0	0.0	suplex123/fasta-analysis
+Surunlang/Apis-cerana-New-gtf-and-fasta-	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	surunlang/apis-cerana-new-gtf-and-fasta-
+swhfall/fasta-proj	include	metadata indicates biological FASTA use	Проект реализует два основных класса для работы с биологическими последовательностями в формате FASTA.		HTML	0.0	0.0	0.0	swhfall/fasta-proj
+swuecho/fastq_2_fasta	include	metadata indicates biological FASTA use			C	1.0	0.0	0.0	swuecho/fastq_2_fasta
+syamimiyusoff/fasta-to-fastq	include	metadata indicates biological FASTA use	Automatically exported from code.google.com/p/fasta-to-fastq		Perl	0.0	0.0	0.0	syamimiyusoff/fasta-to-fastq
+Syliacus/prokyua_fasta_full_system	exclude	metadata indicates unrelated use of FASTA term/acronym	a procurement system 		JavaScript	0.0	0.0	0.0	syliacus/prokyua_fasta_full_system
+SynBioHub/fasta-conversion-plugin	exclude	insufficient metadata to establish biological FASTA use			Go	0.0	0.0	0.0	synbiohub/fasta-conversion-plugin
+SynBioHub/sbh2fasta	include	metadata indicates biological FASTA use	Dumps all sequences from SynBioHub instances as FASTA		JavaScript	0.0	0.0	0.0	synbiohub/sbh2fasta
+t-oginogin/merge_fasta	include	repository name indicates FASTA sequence handling			Ruby	0.0	0.0	0.0	t-oginogin/merge_fasta
+t0pcup/fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	t0pcup/fasta
+TacyEvangelista/analise_fasta_bacterias	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	tacyevangelista/analise_fasta_bacterias
+tadahiroueta/parsing-FASTA	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	tadahiroueta/parsing-fasta
+tafujino/haskell-fasta	exclude	insufficient metadata to establish biological FASTA use			Haskell	0.0	0.0	0.0	tafujino/haskell-fasta
+TahmidA139/fasta_analysis	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	tahmida139/fasta_analysis
+Taniastep/app-parsing-fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	taniastep/app-parsing-fasta
+Tanuli21/FASTA-Processor	include	metadata indicates biological FASTA use	FASTA Processor is a desktop application that is designed to analyze and manipulate biological sequence files		Python	0.0	0.0	0.0	tanuli21/fasta-processor
+Tanya123t/Task_fastA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	tanya123t/task_fasta
+TatyanaV/Fasta_BLAST_SQLite	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	tatyanav/fasta_blast_sqlite
+taulomakotiog-afk/Vyumba-Fasta	exclude	insufficient metadata to establish biological FASTA use			TypeScript	0.0	0.0	0.0	taulomakotiog-afk/vyumba-fasta
+taykalei/python-fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	taykalei/python-fasta
+tcsheng/python-fasta	exclude	insufficient metadata to establish biological FASTA use	Repo for SciComp workshop		Python	0.0	0.0	0.0	tcsheng/python-fasta
+TEAM-ENICMA/Fasta-Fastq-Converter	include	metadata indicates biological FASTA use	A bioinformatics tool that converts Fastq into Fasta	bioinformatics-tool;genomics-analysis;next-generation-sequencing	Python	2.0	0.0	0.0	team-enicma/fasta-fastq-converter
+telatin/anvi-to-fasta	include	metadata indicates biological FASTA use	minimal utility to extract contigs from anvio databases when Anvi'o is not available		C	0.0	0.0	0.0	telatin/anvi-to-fasta
+teonghan/fasta_coverage_extract	include	repository name indicates FASTA sequence handling	Check fasta and discard any with value more than specified		Python	0.0	0.0	0.0	teonghan/fasta_coverage_extract
+teonghan/fasta_split_rename	include	metadata indicates biological FASTA use	split fasta and rename		Python	0.0	0.0	0.0	teonghan/fasta_split_rename
+tessleuthner/python-fasta	exclude	insufficient metadata to establish biological FASTA use	repository for sci comp workshop		Python	0.0	0.0	0.0	tessleuthner/python-fasta
+ThachRocky/QIIME_FASTQ_TO_FASTA	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	thachrocky/qiime_fastq_to_fasta
+thanstavridis/FastA_algorithm	exclude	metadata indicates FASTA algorithm/acronym rather than FASTA format use	Implementation of a simplified version of the FastA algorithm in the context of a project for my Master's course		Python	0.0	0.0	0.0	thanstavridis/fasta_algorithm
+The-Lab-LaBella/FASTA_To-SingleLine	include	repository name indicates FASTA conversion/handling			Python	0.0	0.0	0.0	the-lab-labella/fasta_to-singleline
+TheoCavinato/pyVcf2Fasta	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	theocavinato/pyvcf2fasta
+thiennk1709/fasta_cyp2d6_cnv_data	include	repository name indicates FASTA sequence handling	The data was downloaded from https://github.com/twesigomwedavid/CYP2D6-gt-algorithms			0.0	0.0	0.0	thiennk1709/fasta_cyp2d6_cnv_data
+ThinkCol/fasta-skills	exclude	metadata indicates unrelated use of FASTA term/acronym	fasta.ai skills		Python	0.0	0.0	0.0	thinkcol/fasta-skills
+threadtag/Fasta_utils	include	repository name indicates FASTA sequence handling			Ruby	0.0	0.0	0.0	threadtag/fasta_utils
+thucnhu/convert_fastq_to_fasta	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	thucnhu/convert_fastq_to_fasta
+TiagoBelintani/fasta-loci-checker	include	metadata indicates biological FASTA use	Extract FASTA headers across multiple loci and generate presence/absence matrices, summaries, and missing-data reports.		Python	0.0	0.0	0.0	tiagobelintani/fasta-loci-checker
+tiagofilipe12/gbCDS2fasta	include	metadata indicates biological FASTA use	This script retrieves CDS data from .gb files to a fasta in which each CDS is a sequence entry		Python	0.0	0.0	0.0	tiagofilipe12/gbcds2fasta
+tianzhongyuan/fasta_extract_region	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	tianzhongyuan/fasta_extract_region
+tiffyjmo/fasta-to-fastq	include	metadata indicates biological FASTA use	Automatically exported from code.google.com/p/fasta-to-fastq		Perl	0.0	0.0	0.0	tiffyjmo/fasta-to-fastq
+tlapid14/bldb-fasta-pipeline	include	metadata indicates biological FASTA use	Pipeline for scraping BLDB and building curated beta-lactamase FASTA datasets		Python	0.0	0.0	0.0	tlapid14/bldb-fasta-pipeline
+tnaums/fasta	exclude	insufficient metadata to establish biological FASTA use			Zig	0.0	0.0	0.0	tnaums/fasta
+tnpcbs/fasta-and-fastq	include	metadata indicates biological FASTA use	A collection of perl scripts related to fasta and fastq files		Perl	0.0	0.0	0.0	tnpcbs/fasta-and-fastq
+TohaRhymes/fastq_fasta_compressor_zaww	include	metadata indicates biological FASTA use	Tool for fasta/fastq files compression	bioinformatics-tool;compression;fasta	Python	0.0	0.0	0.0	toharhymes/fastq_fasta_compressor_zaww
+Tomaszlek/RunFasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	tomaszlek/runfasta
+tomgoldstein/fasta-matlab	exclude	insufficient metadata to establish biological FASTA use	A Matlab library for solving optimization problems with forward-backward splitting		Matlab	39.0	0.0	0.0	tomgoldstein/fasta-matlab
+tomobe80/make-fasta-from-txt	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	tomobe80/make-fasta-from-txt
+tomsauv/TREE2FASTA	include	metadata indicates biological FASTA use	Mining FASTA data from trees		Perl	1.0	0.0	0.0	tomsauv/tree2fasta
+tonytam3/Final_Exam_Fasta_Prototype	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	tonytam3/final_exam_fasta_prototype
+TorresAlimac/analizador-fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	torresalimac/analizador-fasta
+TorresAlimac/gc-fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	torresalimac/gc-fasta
+townke/fasta	exclude	insufficient metadata to establish biological FASTA use			C	0.0	0.0	0.0	townke/fasta
+trazzaque/sequence-extraction-fasta-webscrapped-data-from-fasta	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	trazzaque/sequence-extraction-fasta-webscrapped-data-from-fasta
+trifle99/Al-dente-fasta	include	metadata indicates biological FASTA use	Python tool to perform quality control checks on fastq files to make sure they are al-dente for downstream analysis.		Python	0.0	0.0	0.0	trifle99/al-dente-fasta
+truemagic-coder/fasta-upload-search	include	repository name indicates FASTA sequence handling			Rust	0.0	0.0	0.0	truemagic-coder/fasta-upload-search
+trungnt13/fasta-game	exclude	metadata indicates unrelated use of FASTA term/acronym	Game Engine aim to provide better devloping environment with more convenient library and faster speed		Java	0.0	0.0	0.0	trungnt13/fasta-game
+tt2357/Fasta-Qual-clique-finder	include	repository name indicates FASTA sequence handling	Names, comments and couts are in Polish, eager to translate if needed. 		C++	0.0	0.0	0.0	tt2357/fasta-qual-clique-finder
+tw599/bed2fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	tw599/bed2fasta
+TYCOON255/huduma_fasta1	exclude	metadata indicates unrelated use of FASTA term/acronym	service provision app  tes		TypeScript	0.0	0.0	0.0	tycoon255/huduma_fasta1
+tyhouch/modify_fasta	exclude	insufficient metadata to establish biological FASTA use			Jupyter Notebook	0.0	0.0	0.0	tyhouch/modify_fasta
+tzom/FASTA_subset	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	tzom/fasta_subset
+ucheuzor/FASTA-FRONTEND	exclude	metadata indicates unrelated use of FASTA term/acronym	This is the BuildForSDG project for team-002			0.0	0.0	0.0	ucheuzor/fasta-frontend
+uedaLabR/mutectVcfToFasta	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	uedalabr/mutectvcftofasta
+ulusanozlem/Staphylococcus_phage_sml-FASTA	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	ulusanozlem/staphylococcus_phage_sml-fasta
+Uminelka/Fasta-project	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	uminelka/fasta-project
+unum-science/FasterFASTA	include	metadata indicates biological FASTA use	Faster FASTA and FASTQ file processing command line tool - parsing, sorting, deduplication, transliteration, filter, and stats	bioinformatics;deduplication;fasta;fastq;hashing;parser;sequence-alignment;sequence-analysis;sorting-algorithms;string-manipulation	Rust	31.0	0.0	0.0	unum-science/fasterfasta
+UPCGroup/Fasta2CSV	include	repository name indicates FASTA sequence handling	将 Fasta 转化为我们所需要的 CSV		Python	0.0	0.0	0.0	upcgroup/fasta2csv
+usmart31/vcf2fasta	include	metadata indicates biological FASTA use	Python script to convert a vcf file into a fasta. 		Python	0.0	0.0	0.0	usmart31/vcf2fasta
+UTTARAN30/fasta_rand_seq	include	repository name indicates FASTA sequence handling				0.0	0.0	0.0	uttaran30/fasta_rand_seq
+vaiteaopuu/emacs-fasta-mode	include	metadata indicates biological FASTA use	emacs fasta simple package (bioinformatics)	bioinformatics;emacs;fasta;package	Emacs Lisp	3.0	0.0	0.0	vaiteaopuu/emacs-fasta-mode
+ValdemarMo/FAsta01	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	valdemarmo/fasta01
+vanclcode/fasta-cleanup-1221	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	vanclcode/fasta-cleanup-1221
+vanshikasunhare-design/fasta-genbank-toolkit	include	metadata indicates biological FASTA use	A Bioinformatics Toolkit for FASTA and GenBank file analysis using Python and Biopython. Features include GC content calculation, sequence statistics, gene extraction, CDS extraction, and report generation.		Python	0.0	0.0	0.0	vanshikasunhare-design/fasta-genbank-toolkit
+vat2019/DOCUMENTACI-N_FASTA	exclude	metadata indicates unrelated use of FASTA term/acronym	CONTIENE TODAS LAS PLANIFICACIONES DE LOS CICLOS			0.0	0.0	0.0	vat2019/documentaci-n_fasta
+veno46/fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	veno46/fasta
+verasngr/Lettura-FASTA	include	metadata indicates biological FASTA use	Script Python per leggere file FASTA in bioinformatica		Python	0.0	0.0	0.0	verasngr/lettura-fasta
+VergaJU/fasta_HLA-typing	exclude	insufficient metadata to establish biological FASTA use				1.0	0.0	0.0	vergaju/fasta_hla-typing
+vergilet/fasta	exclude	metadata indicates unrelated use of FASTA term/acronym	Mini web framework on Ruby	hacktoberfest	Ruby	0.0	0.0	0.0	vergilet/fasta
+vieira/fasta-search	include	repository name indicates FASTA sequence handling	Várias estratégias de procura de fragmentos em ficheiros fasta		Python	0.0	0.0	0.0	vieira/fasta-search
+vim-scripts/Syntax-for-Fasta	include	metadata indicates biological FASTA use	Highlighting for Fasta (Pearson) format		VimL	3.0	0.0	0.0	vim-scripts/syntax-for-fasta
+vinayrajput0005/variant-fasta-splitter	include	metadata indicates biological FASTA use	Fast splitting of SARS-CoV-2 FASTA into variant groups using PANGO lineage mapping	bioinformatics;fasta;genomics;hpc;sars-cov-2	Python	0.0	0.0	0.0	vinayrajput0005/variant-fasta-splitter
+vincinci/fasta	exclude	insufficient metadata to establish biological FASTA use			JavaScript	0.0	0.0	0.0	vincinci/fasta
+Vinit2401/Mutate_Multi-FASTA	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	vinit2401/mutate_multi-fasta
+vishwaprajapati08/FASTA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	vishwaprajapati08/fasta
+vitmilab/Peptide-FASTA-generation	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	vitmilab/peptide-fasta-generation
+Vladislav-Shevtsov/Fastq-to-fasta-	include	metadata indicates biological FASTA use	Fastq to fasta conversion 		Python	0.0	0.0	0.0	vladislav-shevtsov/fastq-to-fasta-
+vmevada102/RM-Y-from-fasta	exclude	insufficient metadata to establish biological FASTA use			Python	1.0	0.0	0.0	vmevada102/rm-y-from-fasta
+vojtechgadurek/RedaFasta	exclude	insufficient metadata to establish biological FASTA use			C#	0.0	0.0	0.0	vojtechgadurek/redafasta
+vstaneva/familyvcf2fasta	include	metadata indicates biological FASTA use			C++	1.0	0.0	0.0	vstaneva/familyvcf2fasta
+WalterC85/fasta_from_dat	exclude	insufficient metadata to establish biological FASTA use			Perl	0.0	0.0	0.0	walterc85/fasta_from_dat
+WalterC85/remove_fasta	include	repository name indicates FASTA sequence handling			Perl	0.0	0.0	0.0	walterc85/remove_fasta
+wang-xilu/fasta_blast	include	metadata indicates biological FASTA use				0.0	0.0	0.0	wang-xilu/fasta_blast
+wangilisasiemp/damu-fasta	exclude	metadata indicates unrelated use of FASTA term/acronym	Application which allows users to search for blood donors		Dart	0.0	0.0	0.0	wangilisasiemp/damu-fasta
+waubrey/ped_filter_to_fasta	include	repository name indicates FASTA sequence handling	Code to filter heterozygous SNP in PED file and write results to fasta		Python	0.0	0.0	0.0	waubrey/ped_filter_to_fasta
+WeiSong-bio/fasta_manipulate	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	weisong-bio/fasta_manipulate
+weixin7112/fasta-29-data-1	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	weixin7112/fasta-29-data-1
+WenchaoLin/cpin_to_fasta	include	repository name indicates FASTA conversion/handling	用于CPIN格式转fasta			0.0	0.0	0.0	wenchaolin/cpin_to_fasta
+WenchaoLin/fasta_length_hist	include	repository name indicates FASTA sequence handling	Script to plot the histogram of fasta lengths		Python	3.0	0.0	0.0	wenchaolin/fasta_length_hist
+WenchaoLin/pickFasta	include	metadata indicates biological FASTA use	Pick one or more sequences by a list and writes them out again.		C	0.0	0.0	0.0	wenchaolin/pickfasta
+wesleykg/fasta_splitter	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	wesleykg/fasta_splitter
+wh0isdeniz/Ex9-FASTA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	wh0isdeniz/ex9-fasta
+whelixw/request_fasta	include	metadata indicates biological FASTA use	simple python script to request fastas from NCBI andENA		Python	0.0	0.0	0.0	whelixw/request_fasta
+wheresmessi/FASTA-analysis	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	wheresmessi/fasta-analysis
+WiedenheftLab/fasta_order_by_len	include	metadata indicates biological FASTA use	This script is developed to order sequences in a multifasta file by the length of sequences.		Python	0.0	0.0	0.0	wiedenheftlab/fasta_order_by_len
+WiedenheftLab/fasta_splitter_by_taxa	include	metadata indicates biological FASTA use	This script is developed to split sequences based on taxonomy information that is provided separately.		Python	0.0	0.0	0.0	wiedenheftlab/fasta_splitter_by_taxa
+WiedenheftLab/gb2fasta	include	repository name indicates FASTA conversion/handling	This script is developed to convert genbank files to fasta.		Python	0.0	0.0	0.0	wiedenheftlab/gb2fasta
+WiedenheftLab/split_fasta	include	metadata indicates biological FASTA use	This script is developed to split large multifasta file into smaller files for easy manipulation.		Python	0.0	0.0	0.0	wiedenheftlab/split_fasta
+wiharto/fasta_to_txt	include	repository name indicates FASTA conversion/handling	This function converts .fa file to .txt file		Python	0.0	0.0	0.0	wiharto/fasta_to_txt
+wisgrilllab/CPAT_fasta	exclude	insufficient metadata to establish biological FASTA use	test			0.0	0.0	0.0	wisgrilllab/cpat_fasta
+wlh1234/Fo_fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	wlh1234/fo_fasta
+Wobble514/gc-content-fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	wobble514/gc-content-fasta
+wojciech-galan/dense_fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	wojciech-galan/dense_fasta
+WorldChanger1307/FastA---Public	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	worldchanger1307/fasta---public
+wqlv/pssmfasta	include	metadata indicates biological FASTA use	python fasta			0.0	0.0	0.0	wqlv/pssmfasta
+wrpearson/fasta2	include	metadata indicates biological FASTA use	Archival version of the FASTA package available from 1995-2006		C	1.0	0.0	0.0	wrpearson/fasta2
+wrpearson/fasta36	include	metadata indicates biological FASTA use	Git repository for FASTA36 sequence comparison software		C	134.0	0.0	0.0	wrpearson/fasta36
+wrpearson/fasta_www3	include	metadata indicates biological FASTA use	perl/python code for FASTA docker website		Perl	0.0	0.0	0.0	wrpearson/fasta_www3
+wrpearson/fasta_www_docker	include	metadata indicates biological FASTA use	Source for fasta_www similarity searching web site		Dockerfile	0.0	0.0	0.0	wrpearson/fasta_www_docker
+wrpearsonuva/uva_fasta_www3	include	metadata indicates biological FASTA use	UVA deployment fasta_www3 repository		Perl	0.0	0.0	0.0	wrpearsonuva/uva_fasta_www3
+wrpearsonuva/uva_fasta_www_docker	include	metadata indicates biological FASTA use			Dockerfile	0.0	0.0	0.0	wrpearsonuva/uva_fasta_www_docker
+wthanone/fasta-to-fastq	include	metadata indicates biological FASTA use	Automatically exported from code.google.com/p/fasta-to-fastq		Perl	0.0	0.0	0.0	wthanone/fasta-to-fastq
+wwang-nmdp/Parse_HML_to_fasta	include	repository name indicates FASTA sequence handling			Java	1.0	0.0	0.0	wwang-nmdp/parse_hml_to_fasta
+xandrasings/FASTA-project	include	metadata indicates biological FASTA use	bioinformatics project expanding on FASTA algorithm		C++	0.0	0.0	0.0	xandrasings/fasta-project
+xbekova/fasta-to-fastq	include	metadata indicates biological FASTA use	Automatically exported from code.google.com/p/fasta-to-fastq			0.0	0.0	0.0	xbekova/fasta-to-fastq
+xieqiaoyu/fasta-merge	include	repository name indicates FASTA sequence handling			Go	0.0	0.0	0.0	xieqiaoyu/fasta-merge
+ximigeorge/fasta_summary	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	ximigeorge/fasta_summary
+xue23333333/bactmut-fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	xue23333333/bactmut-fasta
+Xyaneon/Xyaneon.Bioinformatics.FASTA	include	metadata indicates biological FASTA use	A .NET Standard library for working with FASTA genetic sequence files.	bioinformatics;biology;csharp;dotnet;fasta;netstandard	C#	9.0	0.0	0.0	xyaneon/xyaneon.bioinformatics.fasta
+y741269430/Download-FASTA	include	repository name indicates FASTA sequence handling			Shell	0.0	0.0	0.0	y741269430/download-fasta
+yaminii14/FASTA-Insight-Genomic-Sequence-Analysis-Platform	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	yaminii14/fasta-insight-genomic-sequence-analysis-platform
+yang695460776-web/obsidian-fasta-lang	include	metadata indicates biological FASTA use	Obsidian plugin: FASTA syntax highlighting with fold, copy, and code-styler style header		JavaScript	0.0	0.0	0.0	yang695460776-web/obsidian-fasta-lang
+Yangzyangjin/Fasta2Kmers	include	metadata indicates biological FASTA use				0.0	0.0	0.0	yangzyangjin/fasta2kmers
+yanki377/fasta-generator	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	yanki377/fasta-generator
+yaqi-jiao/Malaria-Fasta-BLASTX-Processing	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	yaqi-jiao/malaria-fasta-blastx-processing
+yasmina-bioinfo/FASTA-Essentials	include	metadata indicates biological FASTA use	Analysis of stress- and epigenetics-related genes using real multi-FASTA data (GC%, heatmap, boxplot, Biopython & Pandas).	bioinformatics;biopython;boxplot;computational-biology;data-visualization;epigenetics;fasta-analysis;gc-content;genomics;heatmap;matplotlib;multi-fasta;pandas;python-project;sequence-analysis;stress-biology	Python	0.0	0.0	0.0	yasmina-bioinfo/fasta-essentials
+Yating-L/gbToFasta	include	repository name indicates FASTA conversion/handling			Python	0.0	0.0	0.0	yating-l/gbtofasta
+yeastrc/fasta-taxonomy-lookup-utils	include	metadata indicates biological FASTA use	Lookup Taxonomy ID		Java	0.0	0.0	0.0	yeastrc/fasta-taxonomy-lookup-utils
+yeastrc/java-fasta-utils	include	repository name indicates FASTA sequence handling			Java	0.0	0.0	0.0	yeastrc/java-fasta-utils
+yesharaj2005/FASTA	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	yesharaj2005/fasta
+ym-1998/FASTA2024	include	repository name indicates FASTA conversion/handling				0.0	0.0	0.0	ym-1998/fasta2024
+ymidori/fasta_transformer	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	ymidori/fasta_transformer
+Yogesh2057/FASTA-FASTQ-File-Parser	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	yogesh2057/fasta-fastq-file-parser
+YoheiFunakoshi/CPM-merged_fasta-AIRR_outfme_tsv	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	yoheifunakoshi/cpm-merged_fasta-airr_outfme_tsv
+YuzuruTK/FASTA2GO	include	repository name indicates FASTA conversion/handling			Python	0.0	0.0	0.0	yuzurutk/fasta2go
+yy245/python-fasta	exclude	insufficient metadata to establish biological FASTA use	Repo for SciComp Workshop		Python	0.0	0.0	0.0	yy245/python-fasta
+zac-vic/fasta	exclude	insufficient metadata to establish biological FASTA use			Python	0.0	0.0	0.0	zac-vic/fasta
+zachary822/fasta_explorer	exclude	insufficient metadata to establish biological FASTA use			TypeScript	0.0	0.0	0.0	zachary822/fasta_explorer
+ZackCodeCrypto/Fasta-generator-python	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	zackcodecrypto/fasta-generator-python
+zaidiyazdan/LiciousFasta	exclude	metadata indicates unrelated use of FASTA term/acronym	Making this food app with the help of react js		JavaScript	0.0	0.0	0.0	zaidiyazdan/liciousfasta
+Zarin106/Pattern_Lab_fasta_to_npy	include	repository name indicates FASTA conversion/handling			Python	0.0	0.0	0.0	zarin106/pattern_lab_fasta_to_npy
+zarrine905/fastq_to_fasta	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	zarrine905/fastq_to_fasta
+Zavesazzz/fasta_change_sequence	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	zavesazzz/fasta_change_sequence
+Zeynep1309/convert_fasta_to_genbank	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	zeynep1309/convert_fasta_to_genbank
+zhaiqt/csv2fasta	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	zhaiqt/csv2fasta
+ZhaoHuiyao/Fasta_stat	include	repository name indicates FASTA sequence handling			Python	0.0	0.0	0.0	zhaohuiyao/fasta_stat
+zhutao1009/vcf-ref-fasta	include	metadata indicates biological FASTA use			Python	0.0	0.0	0.0	zhutao1009/vcf-ref-fasta
+zitarengoy-cyber/fasta	exclude	insufficient metadata to establish biological FASTA use	fasta		JavaScript	0.0	0.0	0.0	zitarengoy-cyber/fasta
+zizoads/zizoads-fasta	exclude	insufficient metadata to establish biological FASTA use				0.0	0.0	0.0	zizoads/zizoads-fasta
+zkstewart/excel-fasta-builder	include	metadata indicates biological FASTA use	Helper script to parse the Excel document associated with the Calliactis regeneration study		Python	0.0	0.0	0.0	zkstewart/excel-fasta-builder
+ZofiaDulewicz/fasta_header_formatter	include	metadata indicates biological FASTA use	Skrypt w Pythonie do automatycznego formatowania i skracania nagłówków sekwencji FASTA z bazy NCBI.		Python	0.0	0.0	0.0	zofiadulewicz/fasta_header_formatter
+ZoZooma/Fasta	exclude	insufficient metadata to establish biological FASTA use			Java	0.0	0.0	0.0	zozooma/fasta
+zpeng1989/gisaid_fasta_downloader	include	metadata indicates biological FASTA use	a flexible tool to download ncov data			0.0	0.0	0.0	zpeng1989/gisaid_fasta_downloader
+ZyanyaAld/Proyecto-mk-fasta-meme	include	metadata indicates biological FASTA use	Este proyecto tiene como objetivo automatizar el proceso de identificación del sitio exacto de unión de los reguladores transcripcionales para 144 factores de transcripción (TFs) en el genoma completo de *Escherichia coli*. Las regiones de unión de estos TFs se han determinado mediante la técnica ChIP-seq.		Python	0.0	0.0	0.0	zyanyaald/proyecto-mk-fasta-meme
+zzploveyou/filter-fasta	include	repository name indicates FASTA sequence handling	A filter-fasta script.		Python	0.0	0.0	0.0	zzploveyou/filter-fasta

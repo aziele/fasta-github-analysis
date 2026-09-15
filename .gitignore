@@ -1,3 +1,17 @@
+cache/*
+logs/*
+results/02_bigquery_excluded.tsv
+results/03_repositories.tsv
+results/04_repositories.tsv
+results/04_repositories_excluded.tsv
+results/05_code.tsv
+results/06_code.tsv
+results/06_code_excluded.tsv
+results/07_merged.tsv
+results/08_metadata.tsv
+results/09_excluded.tsv
+results/09_repositories.tsv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
