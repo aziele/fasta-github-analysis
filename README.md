@@ -14,7 +14,7 @@ The analysis represents a snapshot of public GitHub repositories as of **15 Sept
 
 ## Repository structure
 
-``` text
+```text
 .
 ├── README.md
 ├── LICENSE
@@ -50,7 +50,6 @@ The analysis represents a snapshot of public GitHub repositories as of **15 Sept
     └── ...
 ```
 
-
 ## Requirements
 
 The pipeline requires **Python 3.10 or later**. Install the required Python packages with:
@@ -64,7 +63,6 @@ GitHub searches require a **GitHub personal access token**. Set the token as an 
 ```bash
 export GITHUB_TOKEN="your_token_here"
 ```
-
 
 ## Methods
 
@@ -101,9 +99,9 @@ API responses are cached to support interrupted or repeated runs.
 
 ### 3. Repository-search filtering
 
-**Broad and targeted search hits are filtered differently.** `04_filter_repositories.py` provisionally retains all repositories identified by at least one targeted query. Repositories found only by the unrestricted `fasta` query are retained at this stage only if their repository name contains a FASTA-like term.
+**Broad and targeted search hits are filtered differently.** `04_filter_repositories.py` provisionally retains all repositories identified by at least one targeted query. Repositories found only by the unrestricted `fasta` query are retained at this stage only if their repository name contains a FASTA-like term, reducing obvious false positives before metadata-based review.
 
-Known lexical collisions involving `FastAPI`, `fastai` and `FastAlign` are identified but targeted hits are not yet removed. Their final classification is deferred until independent file and code evidence and repository metadata are available.
+Known lexical collisions involving `FastAPI`, `fastai` and `FastAlign` are identified, but targeted hits are not yet removed. Their final classification is deferred until independent file and code evidence and repository metadata are available.
 
 ### 4. GitHub code search
 
@@ -139,12 +137,17 @@ Repositories are then handled in three groups:
 
 **Broad `fasta`-only candidates.** Repositories identified only by the unrestricted `fasta` query undergo manual review based on their name, description and topics. Repositories are retained when these metadata provide sufficient evidence of biological FASTA use; ambiguous and unrelated cases are excluded.
 
-On its first run, Step 09 creates `review/broad_fasta_review.tsv` and stops. Each candidate must be classified as `include` or `exclude` before Step 09 is run again.
+The manual classifications used in the published analysis are provided in `review/broad_fasta_review.tsv`. Step 09 verifies that the reviewed repositories exactly match the current set of broad `fasta`-only candidates before applying the classifications.
 
 **Targeted lexical collisions.** Targeted repository-search hits containing `fastapi`, `fastai` or `fastalign` in the repository name require additional evidence when no FASTA file or code evidence is available. After masking the collision term, the repository name, description and topics are checked for an explicit standalone FASTA reference. Corroborated repositories are retained; the remaining hits are excluded.
 
 The final retained and excluded repository sets are written to `results/09_repositories.tsv` and `results/09_excluded.tsv`, respectively.
 
+### 9. Publication outputs
+
+`10_supplementary_table.py` generates `paper/Supplementary_Table_1.xlsx` from the final repository set.
+
+`11_figure.py` groups the final repositories by year of creation and generates `paper/Figure_1.pdf` and `paper/Figure_1.png`. The 2026 count includes repositories created through **15 September 2026**.
 
 ## Reproducibility
 
@@ -159,9 +162,13 @@ python 06_filter_code.py
 python 07_merge_results.py
 python 08_search_metadata.py --refresh
 python 09_filter_results.py
+python 10_supplementary_table.py
+python 11_figure.py
 ```
 
-Step 09 generates `review/broad_fasta_review.tsv` and stops. Classify each candidate as `include` or `exclude`, then continue with:
+The repository includes the manual classifications used in the published analysis in `review/broad_fasta_review.tsv`. If the set of broad `fasta`-only candidates matches the reviewed set, Step 09 validates these classifications and applies them automatically.
+
+To repeat the manual review from scratch, remove `review/broad_fasta_review.tsv` before running Step 09. The script will generate a new review file and stop. Classify each candidate as `include` or `exclude`, then rerun:
 
 ```bash
 python 09_filter_results.py
@@ -171,11 +178,15 @@ python 11_figure.py
 
 To reproduce the analysis entirely from source data, first rerun `01_search_bigquery.sql` as described in Methods and replace `results/01_bigquery.csv`.
 
-For a clean run, remove previous cache and generated output files. GitHub is a dynamic resource, so rerunning the pipeline at a later date may produce different results even with the same queries.
+The `--refresh` option reruns the GitHub searches and metadata retrieval rather than reusing cached API responses.
+
+GitHub is a dynamic resource, so rerunning the pipeline at a later date may produce different results even with the same queries. If the resulting set of broad `fasta`-only candidates differs from the included reviewed set, a new manual review is required.
 
 ## Citation
 
-[Add article]
+Associated article:
+
+> **[Article]**
 
 ## License
 
