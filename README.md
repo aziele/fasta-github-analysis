@@ -175,9 +175,7 @@ For a clean run, remove previous cache and generated output files. GitHub is a d
 
 ## Citation
 
-Associated article:
-
-> **The FASTA phenomenon: survival of the simplest**
+[Add article]
 
 ## License
 
